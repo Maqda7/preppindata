@@ -1,0 +1,961 @@
+,id,first_name,last_name,Ticker,Sector,Market,Stock Name,Market Cap,Purchase Price,Month,Purchase Price Category,Market Cap Category,Rank
+11965,966,Artemas,Franzini,A,Capital Goods,NYSE,"Agilent Technologies, Inc.",19120000000.0,74995.16,1,Large,Huge,1
+11646,647,Harriot,Odhams,BCH,Finance,NYSE,Banco De Chile,12860000000.0,73529.3,1,Large,Huge,2
+11148,149,Agnesse,Mulcock,RELX,Consumer Services,NYSE,RELX PLC,45230000000.0,72197.77,1,Large,Huge,3
+11426,427,Way,O'Lagen,VTR,Consumer Services,NYSE,"Ventas, Inc.",24670000000.0,71276.64,1,Large,Huge,4
+11194,195,Alvie,Hills,APC,Energy,NYSE,Anadarko Petroleum Corporation,26360000000.0,70530.32,1,Large,Huge,5
+3749,750,Buckie,Simenon,TWTR,Technology,NYSE,"Twitter, Inc.",12180000000.0,74088.77,2,Large,Huge,1
+3070,71,Caesar,Kuhn,HAS,Consumer Non-Durables,NASDAQ,"Hasbro, Inc.",13710000000.0,74026.09,2,Large,Huge,2
+3819,820,Ottilie,Helling,AET,Health Care,NYSE,Aetna Inc.,49950000000.0,73692.88,2,Large,Huge,3
+3813,814,Stefania,Gleeton,ZTS,Health Care,NYSE,Zoetis Inc.,30700000000.0,73074.86,2,Large,Huge,4
+3651,652,Mufi,Milmoe,FTS,Public Utilities,NYSE,Fortis Inc.,14400000000.0,72540.29,2,Large,Huge,5
+4261,262,Carlota,MattiCCI,PAA,Energy,NYSE,"Plains All American Pipeline, L.P.",17990000000.0,73912.72,3,Large,Huge,1
+4665,666,Ninette,Roalfe,EFX,Finance,NYSE,"Equifax, Inc.",17140000000.0,72971.97,3,Large,Huge,2
+4711,712,Angelina,Lotte,AAPL,Technology,NASDAQ,Apple Inc.,741770000000.0,72661.97,3,Large,Huge,3
+4161,162,Barnebas,Sapshed,SNY,Health Care,NYSE,Sanofi,123340000000.0,71475.09,3,Large,Huge,4
+4300,301,Valle,Hodgen,DHR,Capital Goods,NYSE,Danaher Corporation,58640000000.0,70151.48,3,Large,Huge,5
+5485,486,Dorine,Backsal,CMCSA,Consumer Services,NASDAQ,Comcast Corporation,195790000000.0,73906.69,4,Large,Huge,1
+5769,770,Aubine,Aubin,PFE,Health Care,NYSE,"Pfizer, Inc.",196760000000.0,72346.96,4,Large,Huge,2
+5678,679,Simonne,Eccersley,INFO,Technology,NASDAQ,IHS Markit Ltd.,19340000000.0,70476.81,4,Large,Huge,3
+5993,994,Dieter,Renne,AET,Health Care,NYSE,Aetna Inc.,49950000000.0,69617.74,4,Large,Huge,4
+5200,201,Astrid,Betteney,CNP,Public Utilities,NYSE,"CenterPoint Energy, Inc.",12450000000.0,69297.35,4,Large,Huge,5
+6980,981,Cello,Pauncefort,SO,Public Utilities,NYSE,Southern Company (The),51250000000.0,74715.06,5,Large,Huge,1
+6904,905,Filia,Hirsch,DISCA,Consumer Services,NASDAQ,"Discovery Communications, Inc.",10200000000.0,73377.11,5,Large,Huge,2
+6794,795,Mile,Spering,CMI,Energy,NYSE,Cummins Inc.,27140000000.0,71411.59,5,Large,Huge,3
+6418,419,Pauly,Linklet,UDR,Consumer Services,NYSE,"United Dominion Realty Trust, Inc.",10750000000.0,70570.64,5,Large,Huge,4
+6973,974,Etheline,Gibbings,IR,Capital Goods,NYSE,Ingersoll-Rand plc (Ireland),23640000000.0,70223.65,5,Large,Huge,5
+7165,166,Cyndi,Ciraldo,IX,Finance,NYSE,Orix Corp Ads,20830000000.0,72460.18,6,Large,Huge,1
+7875,876,Rycca,Dast,LBRDK,Consumer Services,NASDAQ,Liberty Broadband Corporation,16000000000.0,72103.34,6,Large,Huge,2
+7216,217,Lynna,Cuerdale,CMG,Consumer Services,NYSE,"Chipotle Mexican Grill, Inc.",12930000000.0,69471.64,6,Large,Huge,3
+7949,950,Silvano,Di Domenico,MELI,Miscellaneous,NASDAQ,"MercadoLibre, Inc.",11630000000.0,69332.78,6,Large,Huge,4
+7380,381,Andreana,Goakes,CS,Finance,NYSE,Credit Suisse Group,29240000000.0,68630.74,6,Large,Huge,5
+8416,417,Ruddy,Lourenco,LOW,Consumer Services,NYSE,"Lowe's Companies, Inc.",67370000000.00001,74938.25,7,Large,Huge,1
+8787,788,Maren,Meys,PPL,Public Utilities,NYSE,PPL Corporation,26980000000.0,71866.09,7,Large,Huge,2
+8275,276,Chryste,Stokey,STX,Technology,NASDAQ,Seagate Technology PLC,12470000000.0,69535.96,7,Large,Huge,3
+8139,140,Gertruda,Swenson,LNC,Finance,NYSE,Lincoln National Corporation,15260000000.0,68272.12,7,Large,Huge,4
+8213,214,Raphael,Dennert,COTY,Consumer Non-Durables,NYSE,Coty Inc.,14240000000.0,66668.28,7,Large,Huge,5
+9465,466,Derby,Havile,GG,Basic Industries,NYSE,Goldcorp Inc.,11220000000.0,74783.8,8,Large,Huge,1
+9071,72,Corissa,Ivanaev,AMOV,Public Utilities,NYSE,"America Movil, S.A.B. de C.V.",51950000000.0,74705.7,8,Large,Huge,2
+9195,196,Alejandro,Brower,HBANO,Finance,NASDAQ,Huntington Bancshares Incorporated,21830000000.0,74496.04,8,Large,Huge,3
+9310,311,Any,Lurriman,BSX,Health Care,NYSE,Boston Scientific Corporation,38000000000.0,73345.44,8,Large,Huge,4
+9895,896,Filberto,De Rye Barrett,SU,Energy,NYSE,Suncor Energy  Inc.,49630000000.0,71424.71,8,Large,Huge,5
+10260,261,Livvy,Ayars,EFX,Finance,NYSE,"Equifax, Inc.",17140000000.0,73277.35,9,Large,Huge,1
+10423,424,Curry,Heppner,PKX,Basic Industries,NYSE,POSCO,19180000000.0,70673.58,9,Large,Huge,2
+10092,93,Bale,Fitzsymonds,REGN,Health Care,NASDAQ,"Regeneron Pharmaceuticals, Inc.",48880000000.0,68326.56,9,Large,Huge,3
+10784,785,Keefer,Beneze,BA,Capital Goods,NYSE,Boeing Company (The),118570000000.0,67164.75,9,Large,Huge,4
+10291,292,Jude,Napier,HD,Consumer Services,NYSE,"Home Depot, Inc. (The)",187270000000.0,67055.91,9,Large,Huge,5
+933,934,Roger,Stedall,ENB,Energy,NYSE,Enbridge Inc,63730000000.0,73764.73,10,Large,Huge,1
+340,341,Tanya,Sweetland,TIG,Health Care,NASDAQ,TiGenix,103100000000.0,71434.86,10,Large,Huge,2
+715,716,Maddy,Wooles,DISCB,Consumer Services,NASDAQ,"Discovery Communications, Inc.",10250000000.0,70189.41,10,Large,Huge,3
+781,782,Farrand,MacFadden,NOK,Technology,NYSE,Nokia Corporation,37350000000.0,69834.47,10,Large,Huge,4
+345,346,Koren,McKane,PYPL,Miscellaneous,NASDAQ,"PayPal Holdings, Inc.",62270000000.0,68819.65,10,Large,Huge,5
+1600,601,Dyna,Comber,TIF,Consumer Services,NYSE,Tiffany & Co.,11480000000.0,73225.24,11,Large,Huge,1
+1212,213,Evangelin,Bruford,LB,Consumer Services,NYSE,"L Brands, Inc.",14790000000.0,71998.88,11,Large,Huge,2
+1595,596,Larine,Pluck,E,Energy,NYSE,ENI S.p.A.,56640000000.0,71863.86,11,Large,Huge,3
+1127,128,Selestina,Panyer,AGR,Public Utilities,NYSE,"Avangrid, Inc.",14160000000.0,71642.46,11,Large,Huge,4
+1258,259,Dorena,Peppard,ABT,Health Care,NYSE,Abbott Laboratories,83660000000.0,71371.62,11,Large,Huge,5
+2640,641,Nannie,Jerrand,AWK,Public Utilities,NYSE,American Water Works,14720000000.0,74877.8,12,Large,Huge,1
+2531,532,Connie,Zappel,KYO,Technology,NYSE,Kyocera Corporation,21430000000.0,74724.46,12,Large,Huge,2
+2002,3,Corene,Clother,USB,Finance,NYSE,U.S. Bancorp,88090000000.0,73511.98,12,Large,Huge,3
+2697,698,Katine,Hardern,CTXS,Technology,NASDAQ,"Citrix Systems, Inc.",12080000000.0,69431.9,12,Large,Huge,4
+2202,203,Florencia,Dabourne,TSM,Technology,NYSE,Taiwan Semiconductor Manufacturing Company Ltd.,186020000000.0,69056.61,12,Large,Huge,5
+11854,855,Gilemette,Bransden,DRE,Consumer Services,NYSE,Duke Realty Corporation,10250000000.0,24954.71,1,Low,Huge,1
+11587,588,Caterina,McHardy,BSAC,Finance,NYSE,Banco Santander Chile,11960000000.0,24647.37,1,Low,Huge,2
+11988,989,Odele,Binnall,UNH,Health Care,NYSE,UnitedHealth Group Incorporated,175030000000.0,23687.36,1,Low,Huge,3
+11681,682,Zelma,Loftus,COF,Finance,NYSE,Capital One Financial Corporation,39270000000.0,22964.7,1,Low,Huge,4
+11476,477,Rois,Connikie,ZTS,Health Care,NYSE,Zoetis Inc.,30700000000.0,22637.66,1,Low,Huge,5
+3897,898,Eb,Sunners,MET,Finance,NYSE,"MetLife, Inc.",57580000000.0,24515.47,2,Low,Huge,1
+3674,675,Marlyn,Danzelman,PEG,Public Utilities,NYSE,Public Service Enterprise Group Incorporated,22490000000.0,23988.19,2,Low,Huge,2
+3984,985,Lamar,Moutray Read,GWW,Consumer Services,NYSE,"W.W. Grainger, Inc.",10530000000.0,23519.04,2,Low,Huge,3
+3173,174,Gilbertina,Dinjes,FOX,Consumer Services,NASDAQ,"Twenty-First Century Fox, Inc.",50200000000.0,22471.28,2,Low,Huge,4
+3093,94,Shepperd,Currom,VIA,Consumer Services,NASDAQ,Viacom Inc.,15550000000.0,20916.7,2,Low,Huge,5
+4135,136,Paco,Dinsell,PLD,Consumer Services,NYSE,"Prologis, Inc.",30830000000.0,24629.79,3,Low,Huge,1
+4751,752,Aili,Phillput,WFC,Finance,NYSE,Wells Fargo & Company,269310000000.0,23692.96,3,Low,Huge,2
+4745,746,Barnett,Mathew,ADI,Technology,NASDAQ,"Analog Devices, Inc.",29380000000.0,22183.7,3,Low,Huge,3
+4055,56,Jessica,Mordy,NTRS,Finance,NASDAQ,Northern Trust Corporation,21710000000.0,21524.27,3,Low,Huge,4
+4013,14,Correy,Dionisetti,MS,Finance,NYSE,Morgan Stanley,82280000000.0,21031.91,3,Low,Huge,5
+5694,695,Heloise,McCook,PPG,Basic Industries,NYSE,"PPG Industries, Inc.",28480000000.0,24105.88,4,Low,Huge,1
+5772,773,Jolynn,Tregensoe,SPG,Consumer Services,NYSE,"Simon Property Group, Inc.",50030000000.0,23682.02,4,Low,Huge,2
+5712,713,Cristen,Gopsall,DAL,Transportation,NYSE,"Delta Air Lines, Inc.",38270000000.0,23411.39,4,Low,Huge,3
+5302,303,Torrance,Yarnley,RE,Finance,NYSE,"Everest Re Group, Ltd.",10500000000.0,22821.51,4,Low,Huge,4
+5933,934,Garnet,Haggerston,APA,Energy,NYSE,Apache Corporation,18850000000.0,22086.1,4,Low,Huge,5
+6509,510,Harley,Mallinar,D,Public Utilities,NYSE,"Dominion Energy, Inc.",50770000000.0,24227.43,5,Low,Huge,1
+6633,634,Pen,Dobell,CAH,Health Care,NYSE,"Cardinal Health, Inc.",23690000000.0,22425.07,5,Low,Huge,2
+6164,165,Saundra,Zorzenoni,PKG,Consumer Durables,NYSE,Packaging Corporation of America,10130000000.0,21388.13,5,Low,Huge,3
+6837,838,Ellyn,Bartrum,FMC,Basic Industries,NYSE,FMC Corporation,10200000000.0,20518.03,5,Low,Huge,4
+6656,657,Ania,Burrass,BCR,Health Care,NYSE,"C.R. Bard, Inc.",22710000000.0,19111.4,5,Low,Huge,5
+7302,303,Babbie,Phillot,EQT,Energy,NYSE,EQT Corporation,10190000000.0,24850.08,6,Low,Huge,1
+7211,212,Jeffrey,Luetkemeyer,COH,Consumer Non-Durables,NYSE,"Coach, Inc.",13000000000.0,24157.07,6,Low,Huge,2
+7103,104,Vera,Fransewich,CPB,Consumer Non-Durables,NYSE,Campbell Soup Company,16680000000.0,23135.55,6,Low,Huge,3
+7833,834,Ferris,Dyer,MPC,Energy,NYSE,Marathon Petroleum Corporation,27890000000.0,22965.29,6,Low,Huge,4
+7370,371,Guss,Insall,TS,Basic Industries,NYSE,Tenaris S.A.,18320000000.0,22087.79,6,Low,Huge,5
+8389,390,Teena,Gurnee,AMD,Technology,NASDAQ,"Advanced Micro Devices, Inc.",10810000000.0,23948.95,7,Low,Huge,1
+8785,786,Grove,Prinn,TI,Consumer Services,NYSE,Telecom Italia S.P.A.,19890000000.0,23699.25,7,Low,Huge,2
+8896,897,Preston,Ollerearnshaw,GWW,Consumer Services,NYSE,"W.W. Grainger, Inc.",10530000000.0,23464.52,7,Low,Huge,3
+8304,305,Heall,Yukhtin,HDB,Finance,NYSE,HDFC Bank Limited,75190000000.0,21853.14,7,Low,Huge,4
+8531,532,Nickolai,Fozard,AGR,Public Utilities,NYSE,"Avangrid, Inc.",14160000000.0,21700.88,7,Low,Huge,5
+9988,989,Ora,Berard,SEP,Public Utilities,NYSE,"Spectra Energy Partners, LP",13130000000.0,24372.21,8,Low,Huge,1
+9035,36,Sallyanne,Briztman,BSMX,Finance,NYSE,Grupo Financiero Santander Mexico S.A. B. de C.V.,13140000000.0,21631.43,8,Low,Huge,2
+9751,752,Caldwell,Bruins,WRK,Consumer Durables,NYSE,Westrock Company,14440000000.0,21305.25,8,Low,Huge,3
+9074,75,Lammond,Drohane,FAST,Consumer Services,NASDAQ,Fastenal Company,12840000000.0,19522.13,8,Low,Huge,4
+9993,994,Sasha,Aynscombe,CMI,Energy,NYSE,Cummins Inc.,27140000000.0,18856.13,8,Low,Huge,5
+10547,548,Judon,Gascoyne,HAL,Energy,NYSE,Halliburton Company,38420000000.0,24045.08,9,Low,Huge,1
+10489,490,Roderich,Guilford,WFC,Finance,NYSE,Wells Fargo & Company,269310000000.0,24028.29,9,Low,Huge,2
+10690,691,Niles,MacShane,VZ,Public Utilities,NYSE,Verizon Communications Inc.,190220000000.0,23351.82,9,Low,Huge,3
+10652,653,Alain,Ardy,PH,Capital Goods,NYSE,Parker-Hannifin Corporation,21660000000.0,23097.74,9,Low,Huge,4
+10166,167,Erda,Grishukhin,UNP,Transportation,NYSE,Union Pacific Corporation,89930000000.0,21819.58,9,Low,Huge,5
+602,603,Theo,Lewins,PKX,Basic Industries,NYSE,POSCO,19180000000.0,22345.58,10,Low,Huge,1
+364,365,Illa,Chafney,SBUX,Consumer Services,NASDAQ,Starbucks Corporation,87090000000.0,19459.59,10,Low,Huge,2
+167,168,Mack,Epton,KSU,Transportation,NYSE,Kansas City Southern,11010000000.0,18500.64,10,Low,Huge,3
+178,179,Redford,Willerton,FCAU,Capital Goods,NYSE,Fiat Chrysler Automobiles N.V.,20650000000.0,17424.77,10,Low,Huge,4
+971,972,Biddy,Polye,BBT,Finance,NYSE,BB&T Corporation,35970000000.0,14841.86,10,Low,Huge,5
+1998,999,Catlin,Clifton,HAL,Energy,NYSE,Halliburton Company,38420000000.0,23474.77,11,Low,Huge,1
+1010,11,Elaine,Doge,XL,Finance,NYSE,XL Group Ltd.,11510000000.0,22507.24,11,Low,Huge,2
+1026,27,Benny,Trout,LLY,Health Care,NYSE,Eli Lilly and Company,90350000000.0,21841.38,11,Low,Huge,3
+1982,983,Florence,Hadingham,DCUC,Public Utilities,NYSE,"Dominion Energy, Inc.",32020000000.000004,21389.09,11,Low,Huge,4
+1934,935,Galven,Cutcliffe,DXC,Technology,NYSE,DXC Technology Company,21190000000.0,19859.69,11,Low,Huge,5
+2446,447,Fabe,Trew,MO,Consumer Non-Durables,NYSE,Altria Group,149280000000.0,24269.42,12,Low,Huge,1
+2156,157,Ashla,Willgrass,MNST,Consumer Non-Durables,NASDAQ,Monster Beverage Corporation,28570000000.0,23825.81,12,Low,Huge,2
+2651,652,Sal,Braybrooks,PXD,Energy,NYSE,Pioneer Natural Resources Company,27010000000.0,23512.6,12,Low,Huge,3
+2834,835,Franni,Saby,NWL,Consumer Non-Durables,NYSE,Newell Brands Inc.,26500000000.0,22765.61,12,Low,Huge,4
+2874,875,Lura,Minihan,UNM,Finance,NYSE,Unum Group,10840000000.0,21210.7,12,Low,Huge,5
+11414,415,Maxi,Westhoff,LUX,Health Care,NYSE,"Luxottica Group, S.p.A.",29050000000.0,49426.81,1,Medium,Huge,1
+11377,378,Mavra,Bomfield,ANET,Technology,NYSE,"Arista Networks, Inc.",10910000000.0,49114.58,1,Medium,Huge,2
+11967,968,Lenore,Kield,ECL,Basic Industries,NYSE,Ecolab Inc.,38950000000.0,47708.16,1,Medium,Huge,3
+11829,830,Ced,Lorden,WFM,Consumer Services,NASDAQ,"Whole Foods Market, Inc.",13640000000.0,46993.71,1,Medium,Huge,4
+11018,19,Allegra,Rochelle,LYG,Finance,NYSE,Lloyds Banking Group Plc,63770000000.0,46419.8,1,Medium,Huge,5
+3980,981,Winifield,Sibbet,V,Miscellaneous,NYSE,Visa Inc.,217120000000.0,47838.95,2,Medium,Huge,1
+3014,15,Rosalinde,Foxwell,TRP,Public Utilities,NYSE,TransCanada Corporation,41810000000.0,47659.42,2,Medium,Huge,2
+3937,938,Suellen,Dalrymple,BEN,Finance,NYSE,"Franklin Resources, Inc.",24770000000.0,46765.16,2,Medium,Huge,3
+3721,722,Chrissy,Castanyer,ORCL,Technology,NYSE,Oracle Corporation,185530000000.0,44152.27,2,Medium,Huge,4
+3397,398,Nananne,Rajchert,IT,Consumer Services,NYSE,"Gartner, Inc.",11060000000.0,41842.97,2,Medium,Huge,5
+4694,695,Glori,Pfaff,BX,Finance,NYSE,The Blackstone Group L.P.,39130000000.0,48321.15,3,Medium,Huge,1
+4352,353,Garrot,Lepper,WEC,Public Utilities,NYSE,"WEC Energy Group, Inc.",20270000000.0,46345.39,3,Medium,Huge,2
+4248,249,Therine,Till,O,Consumer Services,NYSE,Realty Income Corporation,15470000000.0,45990.23,3,Medium,Huge,3
+4605,606,Gustavus,Diggles,AMD,Technology,NASDAQ,"Advanced Micro Devices, Inc.",10810000000.0,44205.0,3,Medium,Huge,4
+4895,896,Elisha,Roller,D,Public Utilities,NYSE,"Dominion Energy, Inc.",50770000000.0,41492.64,3,Medium,Huge,5
+5202,203,Tallulah,Patterson,MS,Finance,NYSE,Morgan Stanley,82280000000.0,49108.55,4,Medium,Huge,1
+5393,394,Colas,Bemwell,ABT,Health Care,NYSE,Abbott Laboratories,83660000000.0,48477.86,4,Medium,Huge,2
+5814,815,Brendin,Scholer,BA,Capital Goods,NYSE,Boeing Company (The),118570000000.0,48273.04,4,Medium,Huge,3
+5728,729,Correy,Keen,SYF,Finance,NYSE,Synchrony Financial,23790000000.0,46208.94,4,Medium,Huge,4
+5053,54,Wyn,Demeza,UDR,Consumer Services,NYSE,"United Dominion Realty Trust, Inc.",10750000000.0,45441.33,4,Medium,Huge,5
+6274,275,Felicio,Arnowitz,CP,Transportation,NYSE,Canadian Pacific Railway Limited,22760000000.0,49976.54,5,Medium,Huge,1
+6019,20,Valle,Dome,KB,Finance,NYSE,KB Financial Group Inc,19260000000.0,49949.66,5,Medium,Huge,2
+6373,374,Merry,Purchall,MT,Basic Industries,NYSE,ArcelorMittal,20560000000.0,49429.87,5,Medium,Huge,3
+6190,191,Noble,Scogings,QVCB,Consumer Services,NASDAQ,Liberty Interactive Corporation,10920000000.0,49029.39,5,Medium,Huge,4
+6434,435,Alexis,Premble,E,Energy,NYSE,ENI S.p.A.,56640000000.0,46060.25,5,Medium,Huge,5
+7173,174,Eveleen,Caldero,BBVA,Finance,NYSE,Banco Bilbao Viscaya Argentaria S.A.,53980000000.0,47636.22,6,Medium,Huge,1
+7006,7,Justen,Eliyahu,KHC,Consumer Non-Durables,NASDAQ,The Kraft Heinz Company,108870000000.0,46371.32,6,Medium,Huge,2
+7183,184,Terrell,Barmadier,YHOO,Technology,NASDAQ,Yahoo! Inc.,50380000000.0,45692.63,6,Medium,Huge,3
+7990,991,Mal,Peebles,WLTW,Finance,NASDAQ,Willis Towers Watson Public Limited Company,20230000000.0,45591.94,6,Medium,Huge,4
+7425,426,Wildon,Maguire,MS,Finance,NYSE,Morgan Stanley,82280000000.0,44754.31,6,Medium,Huge,5
+8506,507,Juli,de Broke,JNJ,Health Care,NYSE,Johnson & Johnson,361920000000.0,49062.01,7,Medium,Huge,1
+8284,285,Gaston,Davidofski,COL,Capital Goods,NYSE,"Rockwell Collins, Inc.",17430000000.0,48555.71,7,Medium,Huge,2
+8017,18,Donna,Judson,HPE,Technology,NYSE,Hewlett Packard Enterprise Company,27090000000.0,47450.19,7,Medium,Huge,3
+8891,892,Sanders,Featherstonhalgh,HRL,Consumer Non-Durables,NYSE,Hormel Foods Corporation,17940000000.0,47303.68,7,Medium,Huge,4
+8783,784,Ailey,Bougen,ETFC,Finance,NASDAQ,E*TRADE Financial Corporation,10190000000.0,46743.52,7,Medium,Huge,5
+9307,308,Michelina,Durkin,AVB,Consumer Services,NYSE,"AvalonBay Communities, Inc.",27020000000.0,46920.95,8,Medium,Huge,1
+9921,922,Karina,Ryley,DISH,Consumer Services,NASDAQ,DISH Network Corporation,30050000000.0,46772.68,8,Medium,Huge,2
+9891,892,Antonella,Bony,ALK,Transportation,NYSE,"Alaska Air Group, Inc.",10970000000.0,46631.33,8,Medium,Huge,3
+9721,722,Giacomo,Soggee,FAST,Consumer Services,NASDAQ,Fastenal Company,12840000000.0,42713.0,8,Medium,Huge,4
+9250,251,Helene,Caldicott,APA,Energy,NYSE,Apache Corporation,18850000000.0,40945.21,8,Medium,Huge,5
+10219,220,Zabrina,Casper,EMR,Energy,NYSE,Emerson Electric Company,39110000000.0,49494.66,9,Medium,Huge,1
+10256,257,Oralie,Dwyr,NTAP,Technology,NASDAQ,"NetApp, Inc.",10290000000.0,49109.01,9,Medium,Huge,2
+10450,451,Jannel,Tembey,LB,Consumer Services,NYSE,"L Brands, Inc.",14790000000.0,46811.15,9,Medium,Huge,3
+10646,647,Arni,Baldocci,PSX,Energy,NYSE,Phillips 66,41770000000.0,46240.2,9,Medium,Huge,4
+10116,117,Will,Schultz,DAL,Transportation,NYSE,"Delta Air Lines, Inc.",38270000000.0,45197.28,9,Medium,Huge,5
+766,767,Dulcinea,Tutin,PBR,Energy,NYSE,Petroleo Brasileiro S.A.- Petrobras,52700000000.0,49733.13,10,Medium,Huge,1
+39,40,Dare,Tousey,PXD,Energy,NYSE,Pioneer Natural Resources Company,27010000000.0,49057.3,10,Medium,Huge,2
+549,550,Laurel,Mazzey,MSFT,Technology,NASDAQ,Microsoft Corporation,540440000000.00006,46645.14,10,Medium,Huge,3
+161,162,Hale,Dominici,VALE,Basic Industries,NYSE,VALE S.A.,40610000000.0,44772.96,10,Medium,Huge,4
+493,494,Colan,Cuardall,HCP,Consumer Services,NYSE,"HCP, Inc.",15230000000.0,44712.24,10,Medium,Huge,5
+1994,995,Staci,Molyneaux,BP,Energy,NYSE,BP p.l.c.,117990000000.0,48834.11,11,Medium,Huge,1
+1931,932,Ginevra,Schaumann,FAST,Consumer Services,NASDAQ,Fastenal Company,12840000000.0,48670.86,11,Medium,Huge,2
+1507,508,Davina,Gecke,VIA,Consumer Services,NASDAQ,Viacom Inc.,15550000000.0,47566.34,11,Medium,Huge,3
+1516,517,Zita,Perrycost,TTM,Capital Goods,NYSE,Tata Motors Ltd,23690000000.0,46928.52,11,Medium,Huge,4
+1211,212,Brita,Doring,NOV,Energy,NYSE,"National Oilwell Varco, Inc.",12790000000.0,45657.1,11,Medium,Huge,5
+2764,765,Corabel,Northern,QVCB,Consumer Services,NASDAQ,Liberty Interactive Corporation,10920000000.0,49186.9,12,Medium,Huge,1
+2600,601,Alaric,Ealles,EXPE,Consumer Services,NASDAQ,"Expedia, Inc.",22070000000.0,48663.28,12,Medium,Huge,2
+2209,210,George,Benezet,SNY,Health Care,NYSE,Sanofi,123340000000.0,46333.18,12,Medium,Huge,3
+2286,287,Cyrille,Quakley,TGT,Consumer Services,NYSE,Target Corporation,29030000000.0,45577.95,12,Medium,Huge,4
+2148,149,Hestia,Shalcras,BAM,Consumer Services,NYSE,Brookfield Asset Management Inc,37850000000.0,44612.89,12,Medium,Huge,5
+11233,234,Sharyl,Pretor,SLF,Finance,NYSE,Sun Life Financial Inc.,20990000000.0,99652.96,1,Very Large,Huge,1
+11580,581,Romain,Hemms,ANTM,Health Care,NYSE,"Anthem, Inc.",50340000000.0,99259.06,1,Very Large,Huge,2
+11943,944,Helge,Straun,ROK,Capital Goods,NYSE,"Rockwell Automation, Inc.",21140000000.0,97361.61,1,Very Large,Huge,3
+11746,747,Eadith,Lapslie,AME,Consumer Durables,NYSE,"AMTEK, Inc.",14340000000.0,97119.81,1,Very Large,Huge,4
+11300,301,Brennan,Saxton,HRL,Consumer Non-Durables,NYSE,Hormel Foods Corporation,17940000000.0,94469.31,1,Very Large,Huge,5
+3572,573,Boniface,Haddinton,NLSN,Miscellaneous,NYSE,Nielsen N.V.,13700000000.0,98688.11,2,Very Large,Huge,1
+3109,110,Analiese,Feveryear,KMX,Consumer Durables,NYSE,CarMax Inc,11240000000.0,97886.2,2,Very Large,Huge,2
+3851,852,Adeline,Whittall,MMC,Finance,NYSE,"Marsh & McLennan Companies, Inc.",41270000000.0,95663.13,2,Very Large,Huge,3
+3866,867,Harrietta,Gross,PYPL,Miscellaneous,NASDAQ,"PayPal Holdings, Inc.",62270000000.0,93748.34,2,Very Large,Huge,4
+3137,138,Costa,Cockburn,PGR,Finance,NYSE,Progressive Corporation (The),26040000000.0,92337.88,2,Very Large,Huge,5
+4785,786,Hillyer,Brownsett,NVS,Health Care,NYSE,Novartis AG,191210000000.0,99934.21,3,Very Large,Huge,1
+4201,202,Rani,Courtliff,EXPD,Transportation,NASDAQ,"Expeditors International of Washington, Inc.",10270000000.0,98027.76,3,Very Large,Huge,2
+4727,728,Derick,Capron,GM,Capital Goods,NYSE,General Motors Company,51800000000.0,97278.09,3,Very Large,Huge,3
+4576,577,Layney,Maplestone,NMR,Finance,NYSE,Nomura Holdings Inc ADR,21910000000.0,95921.08,3,Very Large,Huge,4
+4538,539,Carmine,Antrim,CMI,Energy,NYSE,Cummins Inc.,27140000000.0,95535.49,3,Very Large,Huge,5
+5913,914,Hinze,Attkins,SNPS,Technology,NASDAQ,"Synopsys, Inc.",11090000000.0,99646.5,4,Very Large,Huge,1
+5321,322,Reinaldos,Alessandrini,LFC,Finance,NYSE,China Life Insurance Company Limited,87340000000.0,98311.18,4,Very Large,Huge,2
+5902,903,Frank,Flannery,ILMN,Capital Goods,NASDAQ,"Illumina, Inc.",25090000000.0,96918.43,4,Very Large,Huge,3
+5284,285,Sadie,Volante,HRS,Capital Goods,NYSE,Harris Corporation,13260000000.0,95161.79,4,Very Large,Huge,4
+5985,986,Pierce,Reolfi,IFF,Basic Industries,NYSE,"Internationa Flavors & Fragrances, Inc.",10630000000.0,94632.28,4,Very Large,Huge,5
+6421,422,Hedi,Baudts,AVB,Consumer Services,NYSE,"AvalonBay Communities, Inc.",27020000000.0,99971.11,5,Very Large,Huge,1
+6620,621,Rolfe,McCauley,MNST,Consumer Non-Durables,NASDAQ,Monster Beverage Corporation,28570000000.0,99649.45,5,Very Large,Huge,2
+6239,240,Darby,Lasham,NTRS,Finance,NASDAQ,Northern Trust Corporation,21710000000.0,96892.24,5,Very Large,Huge,3
+6003,4,Verney,Giacobillo,MMM,Health Care,NYSE,3M Company,127360000000.0,96110.73,5,Very Large,Huge,4
+6394,395,Cori,Backshall,DLTR,Consumer Services,NASDAQ,"Dollar Tree, Inc.",16579999999.999998,94752.5,5,Very Large,Huge,5
+7495,496,Galen,Mougin,VCSH,,NASDAQ,Vanguard Short-Term Corporate Bond ETF,19140000000.0,98089.43,6,Very Large,Huge,1
+7753,754,Cullie,Kabisch,SO,Public Utilities,NYSE,Southern Company (The),51250000000.0,97790.6,6,Very Large,Huge,2
+7297,298,Mohandis,Ireland,GRFS,Health Care,NASDAQ,"Grifols, S.A.",14640000000.0,96773.82,6,Very Large,Huge,3
+7204,205,Diandra,Rate,DHR,Capital Goods,NYSE,Danaher Corporation,58640000000.0,96225.78,6,Very Large,Huge,4
+7392,393,Eleanore,Canceller,ICE,Finance,NYSE,Intercontinental Exchange Inc.,38230000000.0,93362.32,6,Very Large,Huge,5
+8257,258,Dorris,Schuh,MMC,Finance,NYSE,"Marsh & McLennan Companies, Inc.",41270000000.0,99552.77,7,Very Large,Huge,1
+8448,449,Jamill,Jery,FIS,Miscellaneous,NYSE,"Fidelity National Information Services, Inc.",28160000000.0,98050.64,7,Very Large,Huge,2
+8303,304,Jennilee,Beards,SNE,Consumer Non-Durables,NYSE,Sony Corp Ord,47140000000.0,97541.64,7,Very Large,Huge,3
+8619,620,Wilow,Garrow,AAPL,Technology,NASDAQ,Apple Inc.,741770000000.0,97064.12,7,Very Large,Huge,4
+8895,896,Cesare,Olivella,LYB,Basic Industries,NYSE,LyondellBasell Industries NV,32580000000.0,96466.27,7,Very Large,Huge,5
+9747,748,Lorettalorna,Saphin,INFY,Technology,NYSE,Infosys Limited,33530000000.0,96898.17,8,Very Large,Huge,1
+9991,992,Stacie,Arbon,MON,Basic Industries,NYSE,Monsanto Company,51730000000.0,96495.06,8,Very Large,Huge,2
+9732,733,Serena,Randalston,HD,Consumer Services,NYSE,"Home Depot, Inc. (The)",187270000000.0,95429.11,8,Very Large,Huge,3
+9785,786,Berte,Prall,ALL,Finance,NYSE,Allstate Corporation (The),32740000000.000004,95332.92,8,Very Large,Huge,4
+9367,368,Lisa,MacSkeaghan,CB,Finance,NYSE,D/B/A Chubb Limited New,70810000000.0,94897.75,8,Very Large,Huge,5
+10378,379,Rey,Hercules,CI,Health Care,NYSE,Cigna Corporation,43290000000.0,96588.04,9,Very Large,Huge,1
+10611,612,Jsandye,Wishart,MAA,Consumer Services,NYSE,"Mid-America Apartment Communities, Inc.",12500000000.0,95820.92,9,Very Large,Huge,2
+10327,328,Murdock,Blemen,GSK,Health Care,NYSE,GlaxoSmithKline PLC,107750000000.0,94009.24,9,Very Large,Huge,3
+10483,484,Marley,Grigs,CIB,Finance,NYSE,BanColombia S.A.,11020000000.0,93428.71,9,Very Large,Huge,4
+10422,423,Conchita,Denziloe,KEP,Public Utilities,NYSE,Korea Electric Power Corporation,24600000000.0,93349.67,9,Very Large,Huge,5
+980,981,Nickey,Guinn,AAL,Transportation,NASDAQ,"American Airlines Group, Inc.",24030000000.0,99340.47,10,Very Large,Huge,1
+935,936,Rouvin,Rubinovici,BBVA,Finance,NYSE,Banco Bilbao Viscaya Argentaria S.A.,53980000000.0,99027.34,10,Very Large,Huge,2
+586,587,Alyce,Klimowicz,LBRDA,Consumer Services,NASDAQ,Liberty Broadband Corporation,15850000000.0,98681.64,10,Very Large,Huge,3
+896,897,Olivie,Thicking,SYMC,Technology,NASDAQ,Symantec Corporation,17300000000.0,97719.91,10,Very Large,Huge,4
+27,28,Milissent,Giddens,ANTX,Health Care,NYSE,"Anthem, Inc.",13930000000.0,91511.04,10,Very Large,Huge,5
+1912,913,Kirbee,Carcass,L,Finance,NYSE,Loews Corporation,16210000000.0,98278.82,11,Very Large,Huge,1
+1419,420,Ansley,Bengtsen,BAP,Finance,NYSE,Credicorp Ltd.,16850000000.000002,94854.2,11,Very Large,Huge,2
+1702,703,Loralie,Perel,CIB,Finance,NYSE,BanColombia S.A.,11020000000.0,93394.71,11,Very Large,Huge,3
+1833,834,Philly,Buggs,ROP,Capital Goods,NYSE,"Roper Technologies, Inc.",23690000000.0,91982.04,11,Very Large,Huge,4
+1181,182,Wayne,La Batie,VRSK,Technology,NASDAQ,"Verisk Analytics, Inc.",13750000000.0,91606.38,11,Very Large,Huge,5
+2004,5,Cynthy,Cornuau,HRL,Consumer Non-Durables,NYSE,Hormel Foods Corporation,17940000000.0,99994.59,12,Very Large,Huge,1
+2824,825,Giselle,Allix,CNHI,Capital Goods,NYSE,CNH Industrial N.V.,15850000000.0,99977.7,12,Very Large,Huge,2
+2263,264,Kamillah,Crosland,FISV,Technology,NASDAQ,"Fiserv, Inc.",26470000000.0,99492.37,12,Very Large,Huge,3
+2112,113,Jenifer,Geraldo,HSBC,Finance,NYSE,HSBC Holdings plc,176430000000.0,99014.84,12,Very Large,Huge,4
+2869,870,Carey,Sibley,KR,Consumer Services,NYSE,Kroger Company (The),20340000000.0,98708.29,12,Very Large,Huge,5
+11424,425,Bernetta,Garshore,OSK,Capital Goods,NYSE,Oshkosh Corporation,5070000000.0,74935.82,1,Large,Large,1
+11714,715,Jeanne,Ugolini,PLAY,Consumer Services,NASDAQ,"Dave & Buster's Entertainment, Inc.",2840000000.0,74621.72,1,Large,Large,2
+11867,868,Angelika,Shurman,DOC,Consumer Services,NYSE,Physicians Realty Trust,3260000000.0,74155.03,1,Large,Large,3
+11053,54,Jany,Hancke,CSOD,Technology,NASDAQ,"Cornerstone OnDemand, Inc.",2089999999.9999998,74079.42,1,Large,Large,4
+11340,341,Niven,Rae,ADSW,Public Utilities,NYSE,"Advanced Disposal Services, Inc.",2100000000.0,74040.1,1,Large,Large,5
+3263,264,Niel,Woolgar,SRCE,Finance,NASDAQ,1st Source Corporation,1270000000.0,74668.62,2,Large,Large,1
+3647,648,Luce,Blondel,CAVM,Technology,NASDAQ,"Cavium, Inc.",4480000000.0,74537.05,2,Large,Large,2
+3924,925,Fonzie,Huggett,EVHC,Health Care,NYSE,Envision Healthcare Corporation,6890000000.0,74347.83,2,Large,Large,3
+3146,147,Jeannine,Janouch,HELE,Consumer Durables,NASDAQ,Helen of Troy Limited,2520000000.0,73962.65,2,Large,Large,4
+3790,791,Ingamar,Biglin,ARLP,Energy,NASDAQ,"Alliance Resource Partners, L.P.",1450000000.0,73954.38,2,Large,Large,5
+4585,586,Donny,Kacheler,SHO,Consumer Services,NYSE,"Sunstone Hotel Investors, Inc.",3650000000.0,74811.27,3,Large,Large,1
+4199,200,Stephi,Girdler,KEYS,Capital Goods,NYSE,Keysight Technologies Inc.,7040000000.0,73202.42,3,Large,Large,2
+4597,598,Zsa zsa,O'Conor,NKTR,Health Care,NASDAQ,Nektar Therapeutics,2820000000.0,73093.4,3,Large,Large,3
+4845,846,Anya,Lorraway,BOFI,Finance,NASDAQ,"BofI Holding, Inc.",1470000000.0,71624.78,3,Large,Large,4
+4635,636,Auberta,Ruperto,BVN,Basic Industries,NYSE,Buenaventura Mining Company Inc.,2850000000.0,70405.75,3,Large,Large,5
+5704,705,Margaret,Yakovich,SKX,Consumer Non-Durables,NYSE,"Skechers U.S.A., Inc.",4350000000.0,74495.13,4,Large,Large,1
+5799,800,Silvana,Pinches,SBGL,Basic Industries,NYSE,Sibanye Gold Limited,2550000000.0,74409.16,4,Large,Large,2
+5777,778,Abran,Semens,FIT,Technology,NYSE,"Fitbit, Inc.",1160000000.0,74355.04,4,Large,Large,3
+5071,72,Shadow,Lintot,LW,Consumer Non-Durables,NYSE,"Lamb Weston Holdings, Inc.",6580000000.0,73947.71,4,Large,Large,4
+5101,102,Nelle,Skeldinge,WMS,Capital Goods,NYSE,"Advanced Drainage Systems, Inc.",1130000000.0,73635.15,4,Large,Large,5
+6683,684,Renell,Dragon,SPIL,Technology,NASDAQ,"Siliconware Precision Industries Company, Ltd.",5070000000.0,74783.5,5,Large,Large,1
+6254,255,Janeta,Couronne,RGA,Finance,NYSE,"Reinsurance Group of America, Incorporated",8289999999.999999,74232.12,5,Large,Large,2
+6990,991,Norry,Wiz,BABY,Health Care,NASDAQ,Natus Medical Incorporated,1160000000.0,74231.26,5,Large,Large,3
+6992,993,Feodor,Harragin,CPK,Public Utilities,NYSE,Chesapeake Utilities Corporation,1230000000.0,73871.46,5,Large,Large,4
+6682,683,Nevile,Clemenza,DNKN,Consumer Services,NASDAQ,"Dunkin' Brands Group, Inc.",5170000000.0,73575.65,5,Large,Large,5
+7682,683,Mayer,Jordine,SBCF,Finance,NASDAQ,Seacoast Banking Corporation of Florida,1070000000.0000001,74931.39,6,Large,Large,1
+7470,471,Helaine,Armistead,TSRO,Health Care,NASDAQ,"TESARO, Inc.",7770000000.0,74914.77,6,Large,Large,2
+7304,305,Isabella,Andrivot,GLNG,Consumer Services,NASDAQ,Golar LNG Limited,2180000000.0,74722.36,6,Large,Large,3
+7287,288,Rahal,Snawdon,OR,Basic Industries,NYSE,Osisko Gold Royalties Ltd,1280000000.0,74616.51,6,Large,Large,4
+7217,218,Andros,Legges,TGI,Capital Goods,NYSE,"Triumph Group, Inc.",1580000000.0,74520.13,6,Large,Large,5
+8001,2,Julee,Runnacles,BPL,Energy,NYSE,Buckeye Partners L.P.,8620000000.0,74395.94,7,Large,Large,1
+8287,288,Michelina,Brame,IPXL,Health Care,NASDAQ,"Impax Laboratories, Inc.",1020000000.0,73831.61,7,Large,Large,2
+8343,344,Edie,Meldrum,EGO,Basic Industries,NYSE,Eldorado Gold Corporation,1970000000.0,73819.66,7,Large,Large,3
+8392,393,Aylmer,Stowers,AMN,Technology,NYSE,AMN Healthcare Services Inc,1730000000.0,73791.51,7,Large,Large,4
+8945,946,Salomo,Faithfull,RPT,Consumer Services,NYSE,Ramco-Gershenson Properties Trust,1010000000.0,73453.4,7,Large,Large,5
+9220,221,Kristien,Baldery,IPG,Technology,NYSE,"Interpublic Group of Companies, Inc. (The)",9640000000.0,74769.34,8,Large,Large,1
+9435,436,Tressa,Frend,ERF,Energy,NYSE,Enerplus Corporation,1950000000.0,74734.78,8,Large,Large,2
+9849,850,Nessy,Auston,JRVR,Finance,NASDAQ,"James River Group Holdings, Ltd.",1180000000.0,74618.92,8,Large,Large,3
+9098,99,Janel,Matas,WST,Basic Industries,NYSE,"West Pharmaceutical Services, Inc.",7060000000.0,74420.31,8,Large,Large,4
+9630,631,Tressa,Haborn,ATSG,Transportation,NASDAQ,"Air Transport Services Group, Inc",1310000000.0,74118.62,8,Large,Large,5
+10718,719,Marni,Louth,CPLA,Consumer Services,NASDAQ,Capella Education Company,1040000000.0,74975.01,9,Large,Large,1
+10992,993,Andy,Lacroutz,CPRT,Consumer Durables,NASDAQ,"Copart, Inc.",7200000000.0,74248.21,9,Large,Large,2
+10337,338,Tyrus,Pareman,HSC,Capital Goods,NYSE,Harsco Corporation,1350000000.0,74003.42,9,Large,Large,3
+10871,872,Lea,McGirr,EFII,Technology,NASDAQ,"Electronics for Imaging, Inc.",2300000000.0,73756.89,9,Large,Large,4
+10805,806,Jilly,Burnet,JUNO,Health Care,NASDAQ,"Juno Therapeutics, Inc.",2470000000.0,73434.46,9,Large,Large,5
+193,194,Rebecca,Roake,CYH,Health Care,NYSE,"Community Health Systems, Inc.",1030000000.0,74297.45,10,Large,Large,1
+975,976,Nani,Epilet,ARRS,Technology,NASDAQ,ARRIS International plc,5440000000.0,74179.13,10,Large,Large,2
+608,609,Rhianon,Linge,Y,Finance,NYSE,Alleghany Corporation,9370000000.0,74064.16,10,Large,Large,3
+269,270,Cahra,Ibbott,HEP,Energy,NYSE,"Holly Energy Partners, L.P.",2049999999.9999998,73994.0,10,Large,Large,4
+216,217,Jeannine,Bubbins,JWN,Consumer Services,NYSE,"Nordstrom, Inc.",7890000000.0,73219.08,10,Large,Large,5
+1657,658,Duffy,Sooley,TEP,Public Utilities,NYSE,"Tallgrass Energy Partners, LP",3400000000.0,74452.16,11,Large,Large,1
+1509,510,Sutherland,Roblett,VGSH,,NASDAQ,Vanguard Short-Term Government ETF,1460000000.0,73877.62,11,Large,Large,2
+1137,138,Kerwin,Circuit,FCN,Consumer Services,NYSE,"FTI Consulting, Inc.",1340000000.0,73375.47,11,Large,Large,3
+1521,522,Jarrad,Stallibrass,VXUS,,NASDAQ,Vanguard Total International Stock ETF,8570000000.0,73332.32,11,Large,Large,4
+1526,527,Helli,Taggert,ZPIN,Technology,NYSE,Zhaopin Limited,1020000000.0,72657.65,11,Large,Large,5
+2439,440,Nikki,Paolone,CHS,Consumer Services,NYSE,"Chico's FAS, Inc.",1200000000.0,74981.51,12,Large,Large,1
+2313,314,Cammy,Brozek,AEL,Finance,NYSE,American Equity Investment Life Holding Company,2220000000.0,74402.16,12,Large,Large,2
+2645,646,Vernon,Yanov,PEGI,Public Utilities,NASDAQ,Pattern Energy Group Inc.,2080000000.0,74286.29,12,Large,Large,3
+2704,705,Caria,Kirley,WSM,Consumer Services,NYSE,"Williams-Sonoma, Inc.",4160000000.0,74178.51,12,Large,Large,4
+2419,420,Olympia,Dodgshon,BMCH,Consumer Services,NASDAQ,"BMC Stock Holdings, Inc.",1480000000.0,74002.46,12,Large,Large,5
+11876,877,Wye,Tybalt,GXP,Public Utilities,NYSE,Great Plains Energy Inc,6450000000.0,24803.63,1,Low,Large,1
+11701,702,Kat,Calvie,MBI,Finance,NYSE,"MBIA, Inc.",1140000000.0,24797.53,1,Low,Large,2
+11808,809,Demetri,Putley,INVH,Finance,NYSE,Invitation Homes Inc.,6590000000.0,24575.1,1,Low,Large,3
+11990,991,Court,Draco,BDN,Consumer Services,NYSE,Brandywine Realty Trust,3060000000.0,24112.83,1,Low,Large,4
+11156,157,Ingunna,Delieu,HY,Capital Goods,NYSE,"Hyster-Yale Materials Handling, Inc.",1230000000.0,24089.59,1,Low,Large,5
+3519,520,Elspeth,Vanderplas,AF,Finance,NYSE,Astoria Financial Corporation,2060000000.0,24701.47,2,Low,Large,1
+3295,296,Leila,Rumin,LSI,Consumer Services,NYSE,"Life Storage, Inc.",3500000000.0,24608.82,2,Low,Large,2
+3876,877,Angela,Ferronel,DGRW,,NASDAQ,WisdomTree U.S. Quality Dividend Growth Fund,1450000000.0,24085.27,2,Low,Large,3
+3986,987,Etta,Agglione,CFR,Finance,NYSE,"Cullen/Frost Bankers, Inc.",6190000000.0,24052.69,2,Low,Large,4
+3343,344,Cirillo,Vaughten,CABO,Consumer Services,NYSE,"Cable One, Inc.",4139999999.9999995,23401.5,2,Low,Large,5
+4188,189,Meredithe,Slade,AIR,Capital Goods,NYSE,AAR Corp.,1210000000.0,24811.85,3,Low,Large,1
+4086,87,Merna,Snugg,APOG,Capital Goods,NASDAQ,"Apogee Enterprises, Inc.",1600000000.0,24671.93,3,Low,Large,2
+4342,343,Willette,Duigan,FLR,Basic Industries,NYSE,Fluor Corporation,6300000000.0,24086.75,3,Low,Large,3
+4356,357,Valida,Beert,EGL,Consumer Services,NYSE,"Engility Holdings, Inc.",1050000000.0,23881.87,3,Low,Large,4
+4922,923,Leia,Deares,LEA,Capital Goods,NYSE,Lear Corporation,9540000000.0,23746.14,3,Low,Large,5
+5454,455,Starlene,Bernardelli,LXFT,Technology,NYSE,"Luxoft Holding, Inc.",2049999999.9999998,24947.74,4,Low,Large,1
+5619,620,Harmonia,Sancias,HII,Capital Goods,NYSE,"Huntington Ingalls Industries, Inc.",8560000000.000001,24675.93,4,Low,Large,2
+5833,834,Anni,Tudge,TNET,Miscellaneous,NYSE,"TriNet Group, Inc.",2170000000.0,23463.07,4,Low,Large,3
+5185,186,Jobey,Francais,STBA,Finance,NASDAQ,"S&T Bancorp, Inc.",1240000000.0,22879.98,4,Low,Large,4
+5965,966,Berte,Darridon,TRQ,Basic Industries,NYSE,Turquoise Hill Resources Ltd.,4990000000.0,22541.06,4,Low,Large,5
+6148,149,Marguerite,Culbert,EGBN,Finance,NASDAQ,"Eagle Bancorp, Inc.",2160000000.0,24336.62,5,Low,Large,1
+6435,436,Tripp,Viner,WCG,Health Care,NYSE,"WellCare Health Plans, Inc.",7770000000.0,23159.56,5,Low,Large,2
+6541,542,Hinze,Woolston,CR,Capital Goods,NYSE,Crane Company,4720000000.0,23155.31,5,Low,Large,3
+6925,926,Alexandros,Trimby,KRO,Basic Industries,NYSE,Kronos Worldwide Inc,2049999999.9999998,21955.93,5,Low,Large,4
+6889,890,Celine,McCullough,OLN,Basic Industries,NYSE,Olin Corporation,4890000000.0,21868.38,5,Low,Large,5
+7887,888,Karee,Gertz,R,Consumer Services,NYSE,"Ryder System, Inc.",3600000000.0,24883.59,6,Low,Large,1
+7429,430,Page,Pitt,RNG,Technology,NYSE,"Ringcentral, Inc.",2670000000.0,24763.73,6,Low,Large,2
+7670,671,Elwyn,Trinke,MSG,Consumer Services,NYSE,MSG Networks Inc.,4600000000.0,24477.69,6,Low,Large,3
+7666,667,Willie,Vardey,WEX,Miscellaneous,NYSE,WEX Inc.,4500000000.0,24059.62,6,Low,Large,4
+7692,693,Rose,Mursell,AMWD,Basic Industries,NASDAQ,American Woodmark Corporation,1550000000.0,23441.32,6,Low,Large,5
+8878,879,Bryn,Abbatini,MRC,Capital Goods,NYSE,MRC Global Inc.,1630000000.0,24936.74,7,Low,Large,1
+8507,508,Dorolice,Lared,RGEN,Health Care,NASDAQ,Repligen Corporation,1300000000.0,24717.29,7,Low,Large,2
+8886,887,Jolie,Ruprechter,MFA,Consumer Services,NYSE,"MFA Financial, Inc.",3200000000.0,24664.5,7,Low,Large,3
+8788,789,Verena,Wileman,CXW,Consumer Services,NYSE,"CoreCivic, Inc.",3310000000.0,23832.09,7,Low,Large,4
+8900,901,Christie,Simkins,LNCE,Consumer Non-Durables,NASDAQ,"Snyder's-Lance, Inc.",3440000000.0,23492.48,7,Low,Large,5
+9967,968,Cecilio,Itzkowicz,BSM,Energy,NYSE,"Black Stone Minerals, L.P.",3000000000.0,24381.9,8,Low,Large,1
+9696,697,Anderson,Base,GPS,Consumer Services,NYSE,"Gap, Inc. (The)",9060000000.0,24067.34,8,Low,Large,2
+9543,544,Boigie,Dowdeswell,IEP,Capital Goods,NASDAQ,Icahn Enterprises L.P.,8250000000.0,24014.97,8,Low,Large,3
+9282,283,Melessa,Haycraft,XLRN,Health Care,NASDAQ,Acceleron Pharma Inc.,1150000000.0,23419.53,8,Low,Large,4
+9955,956,Hayward,Ors,NEOG,Health Care,NASDAQ,Neogen Corporation,2600000000.0,22372.85,8,Low,Large,5
+10016,17,Yule,Hindmore,EUFN,,NASDAQ,iShares MSCI Europe Financials Sector Index Fund,1150000000.0,24556.43,9,Low,Large,1
+10458,459,Jedd,Arnauduc,MIK,Consumer Services,NASDAQ,"The Michaels Companies, Inc.",3530000000.0,23962.95,9,Low,Large,2
+10169,170,Lewiss,Sonier,INGR,Consumer Non-Durables,NYSE,Ingredion Incorporated,8520000000.0,23822.65,9,Low,Large,3
+10352,353,Kane,Lodevick,FCB,Finance,NYSE,"FCB Financial Holdings, Inc.",2009999999.9999998,23794.8,9,Low,Large,4
+10955,956,Shandee,Morland,CUDA,Technology,NYSE,"Barracuda Networks, Inc.",1170000000.0,23435.8,9,Low,Large,5
+181,182,Murial,Alldridge,DDC,Basic Industries,NYSE,Dominion Diamond Corporation,1030000000.0,24592.57,10,Low,Large,1
+873,874,Tuesday,Boutwell,GOL,Transportation,NYSE,Gol Linhas Aereas Inteligentes S.A.,6060000000.0,24236.5,10,Low,Large,2
+105,106,Bobinette,Aicheson,EDN,Public Utilities,NYSE,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor),1410000000.0,23851.25,10,Low,Large,3
+3,4,Willis,Bugg,OAS,Energy,NYSE,Oasis Petroleum Inc.,1940000000.0,23636.92,10,Low,Large,4
+191,192,Tessie,Bowman,BGS,Consumer Non-Durables,NYSE,"B&G Foods, Inc.",2450000000.0,22604.98,10,Low,Large,5
+1017,18,Osbourn,Arpur,ZBRA,Technology,NASDAQ,Zebra Technologies Corporation,5500000000.0,24991.86,11,Low,Large,1
+1108,109,Uri,Baron,SLCA,Basic Industries,NYSE,"U.S. Silica Holdings, Inc.",2750000000.0,24610.74,11,Low,Large,2
+1873,874,Suellen,Gravie,FIVE,Consumer Services,NASDAQ,"Five Below, Inc.",2650000000.0,23819.39,11,Low,Large,3
+1283,284,Elita,Diego,SQM,Basic Industries,NYSE,Sociedad Quimica y Minera S.A.,9060000000.0,23658.39,11,Low,Large,4
+1428,429,Marthe,Mewton,OLLI,Consumer Services,NASDAQ,"Ollie's Bargain Outlet Holdings, Inc.",2500000000.0,23577.2,11,Low,Large,5
+2154,155,Sigismondo,Grigolon,DATA,Technology,NYSE,"Tableau Software, Inc.",4840000000.0,24498.64,12,Low,Large,1
+2758,759,Benjamen,Cosker,HYLS,,NASDAQ,First Trust High Yield Long/Short ETF,1230000000.0,23434.9,12,Low,Large,2
+2901,902,Gracia,Lune,WNS,Miscellaneous,NYSE,WNS (Holdings) Limited,1630000000.0,22965.18,12,Low,Large,3
+2361,362,Broderick,Elsworth,RIG,Energy,NYSE,Transocean Ltd.,3370000000.0,22218.31,12,Low,Large,4
+2558,559,Jandy,Rivers,THO,Consumer Non-Durables,NYSE,"Thor Industries, Inc.",5530000000.0,22165.7,12,Low,Large,5
+11124,125,Margret,Harry,SHOP,Technology,NYSE,Shopify Inc.,7350000000.0,49796.86,1,Medium,Large,1
+11688,689,Kearney,Rodenhurst,FTAI,,NYSE,Fortress Transportation and Infrastructure Investors LLC,1190000000.0,49694.92,1,Medium,Large,2
+11147,148,Mickie,Brack,AR,Energy,NYSE,Antero Resources Corporation,7130000000.0,49504.15,1,Medium,Large,3
+11839,840,Anallese,Bartoli,BWP,Public Utilities,NYSE,Boardwalk Pipeline Partners L.P.,4380000000.0,49357.51,1,Medium,Large,4
+11094,95,Hartwell,Sedgeman,LORL,Technology,NASDAQ,"Loral Space and Communications, Inc.",1290000000.0,48717.52,1,Medium,Large,5
+3948,949,Winslow,Pentecost,QUOT,Consumer Services,NYSE,Quotient Technology Inc.,1040000000.0,49737.92,2,Medium,Large,1
+3746,747,Jocelyne,Ribchester,FCNCA,Finance,NASDAQ,"First Citizens BancShares, Inc.",4470000000.0,49184.4,2,Medium,Large,2
+3633,634,Donnell,Parlet,TQQQ,,NASDAQ,ProShares UltraPro QQQ,1720000000.0,47917.48,2,Medium,Large,3
+3670,671,Forester,Picott,SANM,Technology,NASDAQ,Sanmina Corporation,2830000000.0,47702.06,2,Medium,Large,4
+3164,165,Hagen,Patry,SFUN,Technology,NYSE,Fang Holdings Limited,1540000000.0,47147.21,2,Medium,Large,5
+4331,332,Esdras,Olander,WETF,Finance,NASDAQ,"WisdomTree Investments, Inc.",1360000000.0,49538.72,3,Medium,Large,1
+4333,334,Zane,Royans,EVHC,Health Care,NYSE,Envision Healthcare Corporation,6890000000.0,49371.25,3,Medium,Large,2
+4927,928,Bailie,Laslett,INOV,Technology,NASDAQ,"Inovalon Holdings, Inc.",1990000000.0,49224.41,3,Medium,Large,3
+4196,197,Maritsa,Dossantos,PATK,Basic Industries,NASDAQ,"Patrick Industries, Inc.",1270000000.0,49182.58,3,Medium,Large,4
+4309,310,Jarrett,Bauman,SPNC,Health Care,NASDAQ,The Spectranetics Corporation,1300000000.0,48883.7,3,Medium,Large,5
+5696,697,Casandra,Gibard,GGG,Capital Goods,NYSE,Graco Inc.,6280000000.0,49492.93,4,Medium,Large,1
+5208,209,Judas,Mebes,THO,Consumer Non-Durables,NYSE,"Thor Industries, Inc.",5530000000.0,48034.38,4,Medium,Large,2
+5959,960,Edmund,Disley,AAV,Energy,NYSE,Advantage Oil & Gas Ltd,1150000000.0,47877.61,4,Medium,Large,3
+5795,796,Dorette,Newcombe,ATKR,Miscellaneous,NYSE,Atkore International Group Inc.,1390000000.0,47358.42,4,Medium,Large,4
+5441,442,Calv,Wortley,CNMD,Health Care,NASDAQ,CONMED Corporation,1420000000.0,47231.1,4,Medium,Large,5
+6791,792,Candide,Lockitt,TECD,Technology,NASDAQ,Tech Data Corporation,3670000000.0,49765.42,5,Medium,Large,1
+6018,19,Gawen,Clayson,KMPR,Finance,NYSE,Kemper Corporation,2049999999.9999998,49657.62,5,Medium,Large,2
+6571,572,Vail,Lightbody,BCC,Consumer Services,NYSE,"Boise Cascade, L.L.C.",1140000000.0,49509.01,5,Medium,Large,3
+6467,468,Mae,McClaughlin,NRG,Public Utilities,NYSE,"NRG Energy, Inc.",5340000000.0,49383.36,5,Medium,Large,4
+6604,605,Lana,Douthwaite,TLND,Technology,NASDAQ,Talend S.A.,1050000000.0,48687.33,5,Medium,Large,5
+7279,280,Emili,Greenhowe,ATO,Public Utilities,NYSE,Atmos Energy Corporation,9010000000.0,49960.42,6,Medium,Large,1
+7188,189,Terese,Piwell,ESV,Energy,NYSE,ENSCO plc,1740000000.0,49296.37,6,Medium,Large,2
+7793,794,Vicky,Aleksankin,CABO,Consumer Services,NYSE,"Cable One, Inc.",4139999999.9999995,49205.43,6,Medium,Large,3
+7462,463,Prudy,Maisey,GWB,Finance,NYSE,"Great Western Bancorp, Inc.",2340000000.0,49148.13,6,Medium,Large,4
+7010,11,Shea,Banville,SCI,Consumer Services,NYSE,Service Corporation International,6050000000.0,48562.55,6,Medium,Large,5
+8296,297,Elihu,Kimblen,YY,Technology,NASDAQ,YY Inc.,3060000000.0,49705.78,7,Medium,Large,1
+8548,549,Wolf,Panther,GKOS,Health Care,NYSE,Glaukos Corporation,1390000000.0,49704.57,7,Medium,Large,2
+8240,241,Marilyn,Jirsa,ERJ,Capital Goods,NYSE,Embraer-Empresa Brasileira de Aeronautica,3450000000.0,49000.27,7,Medium,Large,3
+8042,43,Armando,Rollingson,WWE,Consumer Services,NYSE,"World Wrestling Entertainment, Inc.",1600000000.0,48620.09,7,Medium,Large,4
+8212,213,El,Velasquez,STBA,Finance,NASDAQ,"S&T Bancorp, Inc.",1240000000.0,48425.65,7,Medium,Large,5
+9582,583,Pancho,Kondratyuk,APPF,Technology,NASDAQ,"AppFolio, Inc.",1080000000.0,49842.73,8,Medium,Large,1
+9766,767,Sheelagh,Jeremaes,MWA,Capital Goods,NYSE,MUELLER WATER PRODUCTS,1830000000.0,49246.68,8,Medium,Large,2
+9694,695,Gaston,Kettlesting,BRKR,Capital Goods,NASDAQ,Bruker Corporation,4430000000.0,49245.38,8,Medium,Large,3
+9451,452,Lida,Fletcher,ULTI,Technology,NASDAQ,"The Ultimate Software Group, Inc.",6350000000.0,49125.24,8,Medium,Large,4
+9704,705,Izabel,Gurnett,JWN,Consumer Services,NYSE,"Nordstrom, Inc.",7890000000.0,48812.1,8,Medium,Large,5
+10225,226,Leesa,Liddel,EEQ,Energy,NYSE,Enbridge Energy Management LLC,1270000000.0,48995.54,9,Medium,Large,1
+10606,607,Hortense,Haddington,AMKR,Technology,NASDAQ,"Amkor Technology, Inc.",2520000000.0,48968.44,9,Medium,Large,2
+10171,172,Ollie,Lowers,PAC,Transportation,NYSE,"Grupo Aeroportuario Del Pacifico, S.A. de C.V.",5930000000.0,48934.53,9,Medium,Large,3
+10939,940,Brina,Ruggiero,DNOW,Energy,NYSE,NOW Inc.,1860000000.0,48889.77,9,Medium,Large,4
+10920,921,Vita,Breach,PBH,Health Care,NYSE,"Prestige Brand Holdings, Inc.",2790000000.0,48440.71,9,Medium,Large,5
+474,475,Konstanze,Hoffman,HSNI,Consumer Services,NASDAQ,"HSN, Inc.",1680000000.0,49985.48,10,Medium,Large,1
+19,20,Betta,Curnnok,HGV,Consumer Services,NYSE,Hilton Grand Vacations Inc.,3620000000.0,49006.88,10,Medium,Large,2
+94,95,Borg,Broek,TPH,Capital Goods,NYSE,"TRI Pointe Group, Inc.",1980000000.0,48946.23,10,Medium,Large,3
+55,56,Meggi,Bungey,GGAL,Finance,NASDAQ,Grupo Financiero Galicia S.A.,5470000000.0,48814.42,10,Medium,Large,4
+890,891,Margaret,Ellicock,MTX,Basic Industries,NYSE,Minerals Technologies Inc.,2500000000.0,48058.41,10,Medium,Large,5
+1989,990,Zacherie,Pollastrino,LAMR,Consumer Services,NASDAQ,Lamar Advertising Company,7220000000.0,49863.44,11,Medium,Large,1
+1413,414,Erhard,Codling,R,Consumer Services,NYSE,"Ryder System, Inc.",3600000000.0,49457.52,11,Medium,Large,2
+1895,896,Edi,Geany,IXUS,,NASDAQ,iShares Core MSCI Total International Stock ETF,6260000000.0,49060.11,11,Medium,Large,3
+1846,847,Lissie,Stoile,IPG,Technology,NYSE,"Interpublic Group of Companies, Inc. (The)",9640000000.0,48191.92,11,Medium,Large,4
+1947,948,Ann-marie,Durdy,MTX,Basic Industries,NYSE,Minerals Technologies Inc.,2500000000.0,48162.34,11,Medium,Large,5
+2211,212,Desiri,Tebbitt,WDR,Finance,NYSE,"Waddell & Reed Financial, Inc.",1560000000.0,49925.01,12,Medium,Large,1
+2245,246,Edgard,Kupec,ENBL,Public Utilities,NYSE,"Enable Midstream Partners, LP",6430000000.0,49489.54,12,Medium,Large,2
+2014,15,Maighdiln,Chedgey,TDC,Technology,NYSE,Teradata Corporation,3660000000.0,49255.48,12,Medium,Large,3
+2275,276,Reyna,Abell,PNFP,Finance,NASDAQ,"Pinnacle Financial Partners, Inc.",3270000000.0,49019.57,12,Medium,Large,4
+2262,263,Anabella,Minot,CPLA,Consumer Services,NASDAQ,Capella Education Company,1040000000.0,48955.96,12,Medium,Large,5
+11206,207,Dyanna,Buckthorp,HLS,Health Care,NYSE,HealthSouth Corporation,4240000000.0,99572.76,1,Very Large,Large,1
+11914,915,Lamar,Pien,KEX,Consumer Services,NYSE,Kirby Corporation,3480000000.0,99539.57,1,Very Large,Large,2
+11872,873,Linus,Duinbleton,EGO,Basic Industries,NYSE,Eldorado Gold Corporation,1970000000.0,99358.56,1,Very Large,Large,3
+11334,335,Benny,Beasley,CIR,Capital Goods,NYSE,"CIRCOR International, Inc.",1080000000.0,98712.34,1,Very Large,Large,4
+11030,31,Craggy,Klemenz,ATO,Public Utilities,NYSE,Atmos Energy Corporation,9010000000.0,98689.11,1,Very Large,Large,5
+3805,806,Mendie,Woodstock,CORE,Consumer Non-Durables,NASDAQ,"Core-Mark Holding Company, Inc.",1590000000.0,99979.04,2,Very Large,Large,1
+3498,499,Isabelle,Maghull,ROIC,Consumer Services,NASDAQ,Retail Opportunity Investments Corp.,2150000000.0,99797.16,2,Very Large,Large,2
+3801,802,Morse,Vinecombe,ENS,Consumer Non-Durables,NYSE,Enersys,3350000000.0,99299.19,2,Very Large,Large,3
+3348,349,Farley,Sancho,BEDU,Consumer Services,NYSE,Bright Scholar Education Holdings Limited,1380000000.0,98879.69,2,Very Large,Large,4
+3629,630,Wileen,Headan,DGI,Consumer Services,NYSE,"DigitalGlobe, Inc",1960000000.0,98856.26,2,Very Large,Large,5
+4912,913,Lib,Narramor,CAL,Consumer Non-Durables,NYSE,"Caleres, Inc.",1150000000.0,99457.94,3,Very Large,Large,1
+4497,498,Liz,Mechell,HXL,Basic Industries,NYSE,Hexcel Corporation,4680000000.0,98925.83,3,Very Large,Large,2
+4588,589,Ramonda,Tomowicz,UVV,Consumer Services,NYSE,Universal Corporation,1680000000.0,98894.56,3,Very Large,Large,3
+4307,308,Orelie,Spall,MLNX,Technology,NASDAQ,"Mellanox Technologies, Ltd.",2160000000.0,98340.82,3,Very Large,Large,4
+4555,556,Javier,Pablo,ACM,Consumer Services,NYSE,AECOM,5080000000.0,98201.59,3,Very Large,Large,5
+5566,567,Winifield,Dallander,TRNO,Finance,NYSE,Terreno Realty Corporation,1630000000.0,99621.04,4,Very Large,Large,1
+5635,636,Gradeigh,Temlett,DGI,Consumer Services,NYSE,"DigitalGlobe, Inc",1960000000.0,99574.64,4,Very Large,Large,2
+5896,897,Cecilia,Dunstan,FL,Consumer Services,NYSE,"Foot Locker, Inc.",6830000000.0,98942.99,4,Very Large,Large,3
+5343,344,Bronson,Chappel,IART,Capital Goods,NASDAQ,Integra LifeSciences Holdings Corporation,3990000000.0,98738.19,4,Very Large,Large,4
+5962,963,Maryl,Sibbet,M,Consumer Services,NYSE,Macy's Inc,6980000000.0,97995.65,4,Very Large,Large,5
+6292,293,Aloise,Wherton,GBDC,,NASDAQ,"Golub Capital BDC, Inc.",1110000000.0,99839.23,5,Very Large,Large,1
+6204,205,Bryon,Battey,WES,Public Utilities,NYSE,"Western Gas Partners, LP",8390000000.000001,99514.72,5,Very Large,Large,2
+6781,782,Ikey,Allaway,ESLT,Capital Goods,NASDAQ,Elbit Systems Ltd.,5290000000.0,99445.93,5,Very Large,Large,3
+6497,498,Emma,Heijne,RNG,Technology,NYSE,"Ringcentral, Inc.",2670000000.0,99366.72,5,Very Large,Large,4
+6869,870,Doralynne,Krzysztofiak,EPC,Consumer Non-Durables,NYSE,"Energizer Holdings, Inc.",4340000000.0,99128.12,5,Very Large,Large,5
+7992,993,Decca,Vergine,ARES,Finance,NYSE,Ares Management L.P.,3790000000.0,99597.83,6,Very Large,Large,1
+7251,252,Nertie,Clewer,CNO,Finance,NYSE,"CNO Financial Group, Inc.",3530000000.0,98661.4,6,Very Large,Large,2
+7407,408,Casie,Nosworthy,SIR,Consumer Services,NASDAQ,Select Income REIT,2210000000.0,98606.66,6,Very Large,Large,3
+7265,266,Ola,Moores,SITE,Consumer Non-Durables,NYSE,"SiteOne Landscape Supply, Inc.",1970000000.0,98281.12,6,Very Large,Large,4
+7076,77,Giffard,Cane,CLB,Energy,NYSE,Core Laboratories N.V.,4720000000.0,97947.35,6,Very Large,Large,5
+8469,470,Mag,Gasking,OFC,Consumer Services,NYSE,Corporate Office Properties Trust,3520000000.0,98696.05,7,Very Large,Large,1
+8811,812,Benedicto,Danielovitch,NEU,Basic Industries,NYSE,NewMarket Corporation,5530000000.0,98668.88,7,Very Large,Large,2
+8540,541,Isak,Jeffray,VONG,,NASDAQ,Vanguard Russell 1000 Growth ETF,1180000000.0,98462.08,7,Very Large,Large,3
+8081,82,Lennie,Dower,CNNX,Public Utilities,NYSE,Cone Midstream Partners LP,1170000000.0,98211.51,7,Very Large,Large,4
+8255,256,Abba,Brundrett,CDW,Consumer Services,NASDAQ,CDW Corporation,9730000000.0,98113.37,7,Very Large,Large,5
+9661,662,Gusty,Duggon,MTOR,Capital Goods,NYSE,"Meritor, Inc.",1410000000.0,98657.98,8,Very Large,Large,1
+9011,12,Ashla,Kerwood,HI,Consumer Durables,NYSE,Hillenbrand Inc,2310000000.0,98467.47,8,Very Large,Large,2
+9972,973,Carry,Buff,ONCE,Health Care,NASDAQ,"Spark Therapeutics, Inc.",1820000000.0,98247.23,8,Very Large,Large,3
+9285,286,Justis,Darke,BPY,Finance,NYSE,Brookfield Property Partners L.P.,5910000000.0,97134.54,8,Very Large,Large,4
+9184,185,Deedee,McCorley,WTS,Capital Goods,NYSE,"Watts Water Technologies, Inc.",2150000000.0,96077.31,8,Very Large,Large,5
+10567,568,Kristyn,Pinhorn,LKFN,Finance,NASDAQ,Lakeland Financial Corporation,1160000000.0,99910.52,9,Very Large,Large,1
+10192,193,Ike,Parlot,KLIC,Technology,NASDAQ,"Kulicke and Soffa Industries, Inc.",1460000000.0,99897.54,9,Very Large,Large,2
+10138,139,Warden,Worham,FSV,Finance,NASDAQ,FirstService Corporation,2150000000.0,99263.34,9,Very Large,Large,3
+10954,955,Jon,Malicki,YEXT,Technology,NYSE,"Yext, Inc.",1200000000.0,99229.8,9,Very Large,Large,4
+10469,470,Albertina,Glede,MTX,Basic Industries,NYSE,Minerals Technologies Inc.,2500000000.0,99097.44,9,Very Large,Large,5
+215,216,Johannah,Medmore,JELD,Basic Industries,NYSE,"JELD-WEN Holding, Inc.",3600000000.0,99030.7,10,Very Large,Large,1
+396,397,Nick,Rape,RLI,Finance,NYSE,RLI Corp.,2500000000.0,98812.27,10,Very Large,Large,2
+865,866,Tedie,Beretta,ITCB,Finance,NYSE,Ita? CorpBanca,4740000000.0,98729.3,10,Very Large,Large,3
+303,304,Jervis,Coughtrey,MAC,Consumer Services,NYSE,Macerich Company (The),8189999999.999999,98516.49,10,Very Large,Large,4
+179,180,Maximo,Tinklin,BMA,Finance,NYSE,Macro Bank Inc.,5070000000.0,98512.95,10,Very Large,Large,5
+1767,768,Abigale,Panchin,QCP,Consumer Services,NYSE,"Quality Care Properties, Inc.",1650000000.0,99802.33,11,Very Large,Large,1
+1981,982,Jarrod,Plaskitt,SBS,Public Utilities,NYSE,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp,6550000000.0,98817.08,11,Very Large,Large,2
+1746,747,Angelika,Etchingham,LOPE,Consumer Services,NASDAQ,"Grand Canyon Education, Inc.",3900000000.0,98706.05,11,Very Large,Large,3
+1829,830,Thedric,Jirus,EVT,,NYSE,Eaton Vance Tax Advantaged Dividend Income Fund,1600000000.0,98601.19,11,Very Large,Large,4
+1548,549,Dreddy,Newband,THO,Consumer Non-Durables,NYSE,"Thor Industries, Inc.",5530000000.0,98151.21,11,Very Large,Large,5
+2671,672,Rennie,Nicolls,BKH,Public Utilities,NYSE,Black Hills Corporation,3840000000.0,99041.03,12,Very Large,Large,1
+2487,488,Tybie,Bentame,GEL,Energy,NYSE,"Genesis Energy, L.P.",3650000000.0,98705.43,12,Very Large,Large,2
+2718,719,Shaw,Cruikshank,GOLD,Basic Industries,NASDAQ,Randgold Resources Limited,8550000000.000001,98608.35,12,Very Large,Large,3
+2079,80,Manny,Hockey,MSA,Health Care,NYSE,MSA Safety Incorporporated,3160000000.0,97805.55,12,Very Large,Large,4
+2533,534,Jessey,Thandi,FTNT,Technology,NASDAQ,"Fortinet, Inc.",6650000000.0,97626.75,12,Very Large,Large,5
+11864,865,Farand,Tutchener,EVBS,Finance,NASDAQ,"Eastern Virginia Bankshares, Inc.",142790000.0,74337.53,1,Large,Medium,1
+11771,772,Minda,Trueman,EXA,Technology,NASDAQ,Exa Corporation,203270000.0,74152.06,1,Large,Medium,2
+11916,917,Kacie,Guiel,JPI,,NYSE,Nuveen Preferred and Income Term Fund,560060000.0,73970.74,1,Large,Medium,3
+11999,1000,Lin,Rosgen,GPAC,Health Care,NASDAQ,Global Partner Acquisition Corp.,193670000.0,73954.07,1,Large,Medium,4
+11740,741,Peta,Duff,KMG,Basic Industries,NYSE,"KMG Chemicals, Inc.",581400000.0,73116.32,1,Large,Medium,5
+3971,972,Zorana,Vernalls,APTI,Technology,NASDAQ,"Apptio, Inc.",654410000.0,74931.58,2,Large,Medium,1
+3409,410,Josee,Husselbee,KND,Health Care,NYSE,"Kindred Healthcare, Inc.",907720000.0,74171.85,2,Large,Medium,2
+3341,342,Jethro,Field,FORR,Consumer Services,NASDAQ,"Forrester Research, Inc.",700650000.0,73792.28,2,Large,Medium,3
+3430,431,Westbrook,Elegood,GSOL,Consumer Services,NASDAQ,Global Sources Ltd.,488080000.0,73554.57,2,Large,Medium,4
+3907,908,Shawn,Palin,OMNT,Miscellaneous,NASDAQ,"Ominto, Inc.",151540000.0,73396.07,2,Large,Medium,5
+4516,517,Gaultiero,Mountfort,AKAO,Health Care,NASDAQ,"Achaogen, Inc.",890000000.0,74668.2,3,Large,Medium,1
+4532,533,Cassandre,Odom,IVTY,Health Care,NASDAQ,"Invuity, Inc.",104390000.0,74555.12,3,Large,Medium,2
+4911,912,Avery,Fuente,OSG,Transportation,NYSE,"Overseas Shipholding Group, Inc.",192450000.0,74348.08,3,Large,Medium,3
+4995,996,Flo,Forton,OXFD,Health Care,NASDAQ,Oxford Immunotec Global PLC,344130000.0,74208.39,3,Large,Medium,4
+4345,346,Inge,Dawidowsky,CAMT,Capital Goods,NASDAQ,Camtek Ltd.,197240000.0,74129.42,3,Large,Medium,5
+5503,504,Zach,Ick,JPC,,NYSE,Nuveen Preferred Income Opportunites Fund,999980000.0,74937.8,4,Large,Medium,1
+5086,87,Stu,Liddon,CZNC,Finance,NASDAQ,Citizens & Northern Corp,287820000.0,74886.85,4,Large,Medium,2
+5740,741,Ethyl,Mollitt,NEOS,Health Care,NASDAQ,"Neos Therapeutics, Inc.",195150000.0,74227.86,4,Large,Medium,3
+5682,683,Giordano,Skally,FINL,Consumer Services,NASDAQ,"The Finish Line, Inc.",551940000.0,74009.62,4,Large,Medium,4
+5920,921,Harley,Ibotson,VVI,Miscellaneous,NYSE,Viad Corp,940530000.0,72829.95,4,Large,Medium,5
+6854,855,Odessa,Ilyushkin,LMAT,Health Care,NASDAQ,"LeMaitre Vascular, Inc.",512549999.99999994,74651.76,5,Large,Medium,1
+6981,982,Rubin,Stonman,QQXT,,NASDAQ,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,101070000.0,74154.09,5,Large,Medium,2
+6448,449,Haley,Yegorkov,ESSA,Finance,NASDAQ,"ESSA Bancorp, Inc.",175650000.0,74026.74,5,Large,Medium,3
+6768,769,Carol,Linney,CSTR,Finance,NASDAQ,"CapStar Financial Holdings, Inc.",196970000.0,73302.36,5,Large,Medium,4
+6728,729,Candide,Fidler,FVC,,NASDAQ,First Trust Dorsey Wright Dynamic Focus 5 ETF,318660000.0,72653.09,5,Large,Medium,5
+7412,413,Olvan,Rizzelli,UNB,Finance,NASDAQ,"Union Bankshares, Inc.",207260000.0,74574.28,6,Large,Medium,1
+7599,600,Meade,Georgiev,BSET,Consumer Durables,NASDAQ,"Bassett Furniture Industries, Incorporated",342510000.0,74480.97,6,Large,Medium,2
+7755,756,Reinold,Cornillot,KRNT,Capital Goods,NASDAQ,Kornit Digital Ltd.,643740000.0,74095.37,6,Large,Medium,3
+7490,491,Sarah,Wormell,RA,,NYSE,Brookfield Real Assets Income Fund Inc.,858040000.0,73963.38,6,Large,Medium,4
+7381,382,Cathi,Dibsdale,IGD,,NYSE,Voya Global Equity Dividend and Premium Opportunity Fund,729050000.0,73485.54,6,Large,Medium,5
+8657,658,Noah,Gritten,MG,Consumer Services,NYSE,Mistras Group Inc,617060000.0,74883.88,7,Large,Medium,1
+8629,630,Muffin,Casel,OBSV,Health Care,NASDAQ,ObsEva SA,161490000.0,74303.37,7,Large,Medium,2
+8408,409,Janna,Cockings,ASIX,Basic Industries,NYSE,AdvanSix Inc.,897420000.0,74236.29,7,Large,Medium,3
+8267,268,Alfy,McNickle,VEC,Consumer Services,NYSE,"Vectrus, Inc.",340820000.0,74215.39,7,Large,Medium,4
+8587,588,Lazarus,Strewthers,IEUS,,NASDAQ,iShares MSCI Europe Small-Cap ETF,126720000.0,74170.42,7,Large,Medium,5
+9738,739,Austine,Oris,CLDT,Consumer Services,NYSE,Chatham Lodging Trust (REIT),776550000.0,74196.58,8,Large,Medium,1
+9565,566,Layla,Landall,HONE,Finance,NASDAQ,"HarborOne Bancorp, Inc.",655590000.0,72839.67,8,Large,Medium,2
+9622,623,Mylo,Jorio,BSL,,NYSE,Blackstone GSO Senior Floating Rate Term Fund,271310000.0,72701.83,8,Large,Medium,3
+9973,974,Babs,Surcombe,IDRA,Health Care,NASDAQ,"Idera Pharmaceuticals, Inc.",237150000.0,72016.13,8,Large,Medium,4
+9624,625,Larine,Ashe,PHD,,NYSE,Pioneer Floating Rate Trust,293390000.0,71810.27,8,Large,Medium,5
+10202,203,Kimberlee,Condict,VRAY,Health Care,NASDAQ,"ViewRay, Inc.",370120000.0,74986.67,9,Large,Medium,1
+10609,610,Creight,Bernat,MLR,Capital Goods,NYSE,"Miller Industries, Inc.",289480000.0,74252.84,9,Large,Medium,2
+10393,394,Ikey,Durant,LAND,Consumer Services,NASDAQ,Gladstone Land Corporation,133560000.0,74019.01,9,Large,Medium,3
+10803,804,Kippie,Massow,FTEO,,NASDAQ,"FRONTEO, Inc.",254840000.0,73963.06,9,Large,Medium,4
+10497,498,Clo,Simka,DLNG,Consumer Services,NYSE,Dynagas LNG Partners LP,517440000.00000006,73826.53,9,Large,Medium,5
+714,715,Hertha,Fallens,RRGB,Consumer Services,NASDAQ,"Red Robin Gourmet Burgers, Inc.",828170000.0,74844.45,10,Large,Medium,1
+95,96,Man,Murdoch,VBTX,Finance,NASDAQ,"Veritex Holdings, Inc.",425820000.0,74509.82,10,Large,Medium,2
+808,809,Wilbur,Sibbert,GASS,Transportation,NASDAQ,"StealthGas, Inc.",122370000.0,74354.6,10,Large,Medium,3
+341,342,Celina,Ayton,ONEQ,,NASDAQ,Fidelity Nasdaq Composite Index Tracking Stock,798860000.0,74324.9,10,Large,Medium,4
+240,241,Lexis,Petriello,PGC,Finance,NASDAQ,Peapack-Gladstone Financial Corporation,531919999.99999994,73357.9,10,Large,Medium,5
+1239,240,Lionel,Carreyette,MRTN,Transportation,NASDAQ,"Marten Transport, Ltd.",905460000.0,73840.42,11,Large,Medium,1
+1959,960,Rochella,MacElane,BFK,,NYSE,BlackRock Municipal Income Trust,638920000.0,73646.68,11,Large,Medium,2
+1672,673,Reinold,Buttle,PSCF,,NASDAQ,PowerShares S&P SmallCap Financials Portfolio,243510000.0,73297.71,11,Large,Medium,3
+1424,425,Kenon,Piell,DHX,Miscellaneous,NYSE,"DHI Group, Inc.",128990000.00000001,72988.63,11,Large,Medium,4
+1125,126,Celinda,Dafydd,MBFIP,Finance,NASDAQ,MB Financial Inc.,104920000.0,72881.21,11,Large,Medium,5
+2333,334,Jennine,Bosch,CMRE,Transportation,NYSE,Costamare Inc.,710190000.0,74049.76,12,Large,Medium,1
+2540,541,Dode,Limmer,REGI,Basic Industries,NASDAQ,"Renewable Energy Group, Inc.",477600000.0,73563.2,12,Large,Medium,2
+2391,392,Gareth,Yvens,PFSW,Miscellaneous,NASDAQ,"PFSweb, Inc.",136890000.0,73540.05,12,Large,Medium,3
+2231,232,Denys,Konert,PDLI,Health Care,NASDAQ,"PDL BioPharma, Inc.",367040000.0,73471.57,12,Large,Medium,4
+2808,809,Filberto,Moyers,RIC,Basic Industries,NYSE,"Richmont Mines, Inc.",458830000.0,73447.04,12,Large,Medium,5
+11638,639,Darcey,Andrzej,GAM,,NYSE,"General American Investors, Inc.",923880000.0,24861.42,1,Low,Medium,1
+11013,14,Erminie,Lis,JHD,,NYSE,Nuveen High Income December 2019 Target Term Fund,277100000.0,24418.39,1,Low,Medium,2
+11214,215,Tabina,Dudding,ACP,,NYSE,Avenue Income Credit Strategies Fund,185390000.0,23996.86,1,Low,Medium,3
+11918,919,Munmro,Merrington,RYAM,Basic Industries,NYSE,Rayonier Advanced Materials Inc.,705420000.0,23253.12,1,Low,Medium,4
+11805,806,Kaela,Birchill,QDEL,Health Care,NASDAQ,Quidel Corporation,854720000.0,22312.37,1,Low,Medium,5
+3273,274,Meridel,Loftin,DHIL,Finance,NASDAQ,"Diamond Hill Investment Group, Inc.",701480000.0,24715.57,2,Low,Medium,1
+3367,368,Goldy,Streeton,DVAX,Health Care,NASDAQ,Dynavax Technologies Corporation,383030000.0,24430.22,2,Low,Medium,2
+3545,546,Renie,Demaine,QQEW,,NASDAQ,First Trust NASDAQ-100 Equal Weighted Index Fund,556300000.0,23828.72,2,Low,Medium,3
+3132,133,Monah,Escott,OIA,,NYSE,Invesco Municipal Income Opportunities Trust,376320000.0,23736.81,2,Low,Medium,4
+3417,418,Rania,Lee,ESTE,Energy,NYSE,"Earthstone Energy, Inc.",608380000.0,23362.83,2,Low,Medium,5
+4269,270,Delcina,Longstaffe,TTI,Energy,NYSE,"Tetra Technologies, Inc.",364090000.0,24278.12,3,Low,Medium,1
+4250,251,Vera,Jellett,BREW,Consumer Non-Durables,NASDAQ,"Craft Brew Alliance, Inc.",320720000.0,24027.44,3,Low,Medium,2
+4297,298,Audie,Willbond,CO,Finance,NYSE,China Cord Blood Corporation,666520000.0,23993.25,3,Low,Medium,3
+4165,166,Dorolice,Cathenod,BAS,Energy,NYSE,"Basic Energy Services, Inc.",595410000.0,23713.82,3,Low,Medium,4
+4730,731,Flori,Roddy,RPD,Technology,NASDAQ,"Rapid7, Inc.",739260000.0,23553.48,3,Low,Medium,5
+5579,580,Gardener,MacCaffery,NVGS,Transportation,NYSE,Navigator Holdings Ltd.,405380000.0,24944.68,4,Low,Medium,1
+5745,746,Fleur,Kullmann,NAZ,,NYSE,Nuveen Arizona Quality Municipal Income Fund,167960000.0,24814.77,4,Low,Medium,2
+5119,120,Alick,Patry,JHY,,NYSE,Nuveen High Income 2020 Target Term Fund,145490000.0,24793.17,4,Low,Medium,3
+5796,797,Ramona,Miettinen,UEPS,Finance,NASDAQ,"Net 1 UEPS Technologies, Inc.",556900000.0,24615.51,4,Low,Medium,4
+5464,465,Darcy,Liptrot,MRTN,Transportation,NASDAQ,"Marten Transport, Ltd.",905460000.0,24546.66,4,Low,Medium,5
+6299,300,Heida,Genever,GBAB,,NYSE,Guggenheim Taxable Municipal Managed Duration Trst,398310000.0,24961.37,5,Low,Medium,1
+6815,816,Sephira,Manifield,PTCT,Health Care,NASDAQ,"PTC Therapeutics, Inc.",700740000.0,24810.05,5,Low,Medium,2
+6383,384,Melly,Hamflett,BGIO,,NYSE,BlackRock 2022 Global Income Opportunity Trust,209970000.0,24685.68,5,Low,Medium,3
+6058,59,Nertie,Waddy,FSFR,,NASDAQ,Fifth Street Senior Floating Rate Corp.,219230000.0,24514.43,5,Low,Medium,4
+6545,546,Christal,Rewcassell,SGY,Energy,NYSE,Stone Energy Corporation,470400000.0,24346.17,5,Low,Medium,5
+7141,142,Rik,Beardshall,BRT,Consumer Services,NYSE,BRT Apartments Corp.,109520000.0,24670.25,6,Low,Medium,1
+7424,425,Annalee,Stenbridge,TITN,Consumer Services,NASDAQ,Titan Machinery Inc.,403050000.0,24326.46,6,Low,Medium,2
+7874,875,Belia,Ebenezer,ACRX,Health Care,NASDAQ,"AcelRx Pharmaceuticals, Inc.",108910000.0,24139.95,6,Low,Medium,3
+7579,580,Mikkel,Jagels,HCHC,Capital Goods,NYSE,"HC2 Holdings, Inc.",244930000.0,23794.32,6,Low,Medium,4
+7050,51,Gardener,Sterland,JHA,,NYSE,Nuveen High Income 2020 Target Term Fund,296920000.0,23582.79,6,Low,Medium,5
+8363,364,Jason,Glyde,HEQ,,NYSE,John Hancock Hedged Equity & Income Fund,206260000.0,24803.62,7,Low,Medium,1
+8784,785,Merridie,Sykora,MCA,,NYSE,"Blackrock MuniYield California Insured Fund, Inc.",517809999.99999994,23827.85,7,Low,Medium,2
+8698,699,Tildi,Cicero,JP,Consumer Services,NYSE,Jupai Holdings Limited,258290000.00000003,23788.26,7,Low,Medium,3
+8067,68,Nichols,Millery,SBCP,Finance,NASDAQ,"Sunshine Bancorp, Inc.",173850000.0,23644.35,7,Low,Medium,4
+8114,115,Mitzi,Benedite,CTT           ,Consumer Services,NYSE,"CatchMark Timber Trust, Inc.",452920000.0,23614.49,7,Low,Medium,5
+9816,817,Cosetta,Burd,PHH,Finance,NYSE,PHH Corp,743070000.0,24410.07,8,Low,Medium,1
+9191,192,Dorri,Sheldon,TCI,Consumer Services,NYSE,"Transcontinental Realty Investors, Inc.",230240000.0,24356.24,8,Low,Medium,2
+9336,337,Maegan,Punter,ESPR,Health Care,NASDAQ,"Esperion Therapeutics, Inc.",754280000.0,24258.14,8,Low,Medium,3
+9965,966,Denney,Manvell,IDE,,NYSE,"Voya Infrastructure, Industrials and Materials Fund",296890000.0,24036.38,8,Low,Medium,4
+9217,218,Joye,McLukie,CYAD,Health Care,NASDAQ,Celyad SA,445000000.0,22655.78,8,Low,Medium,5
+10907,908,Crista,Saldler,ATAX,Finance,NASDAQ,"America First Multifamily Investors, L.P.",358500000.0,24639.19,9,Low,Medium,1
+10272,273,De witt,Leng,AFB,,NYSE,Alliance National Municipal Income Fund Inc,392940000.0,24020.67,9,Low,Medium,2
+10447,448,Chere,Bennet,EOI,,NYSE,Eaton Vance Enhance Equity Income Fund,534710000.00000006,23974.86,9,Low,Medium,3
+10383,384,Nev,Gadie,ANW,Energy,NYSE,Aegean Marine Petroleum Network Inc.,224840000.0,23757.2,9,Low,Medium,4
+10512,513,Drucill,Lamplugh,PEBK,Finance,NASDAQ,"Peoples Bancorp of North Carolina, Inc.",175040000.0,23666.18,9,Low,Medium,5
+324,325,Gage,Paddick,CCS,Capital Goods,NYSE,"Century Communities, Inc.",551700000.0,24600.23,10,Low,Medium,1
+819,820,Gustie,Glassup,SPXX,,NYSE,Nuveen S&P 500 Dynamic Overwrite Fund,250200000.0,24563.52,10,Low,Medium,2
+672,673,Sibeal,Mollatt,CHMG,Finance,NASDAQ,Chemung Financial Corp,185560000.0,24214.36,10,Low,Medium,3
+694,695,Sharai,Bonifas,MACK,Health Care,NASDAQ,"Merrimack Pharmaceuticals, Inc.",153620000.0,24118.01,10,Low,Medium,4
+260,261,Arlen,Bullough,HIIQ,Finance,NASDAQ,"Health Insurance Innovations, Inc.",392380000.0,23013.07,10,Low,Medium,5
+1995,996,Taite,Holdey,EARN,Consumer Services,NYSE,Ellington Residential Mortgage REIT,140160000.0,24999.72,11,Low,Medium,1
+1138,139,Ashleigh,Skelhorn,NVTR,Health Care,NASDAQ,Nuvectra Corporation,132490000.00000001,24963.74,11,Low,Medium,2
+1071,72,Cathe,O'Cahill,JOF,,NYSE,Japan Smaller Capitalization Fund Inc,327820000.0,24483.34,11,Low,Medium,3
+1426,427,Natassia,Fancott,WMC,Consumer Services,NYSE,Western Asset Mortgage Capital Corporation,442250000.0,24390.99,11,Low,Medium,4
+1567,568,Nate,MacGaughy,NCV,,NYSE,AllianzGI Convertible & Income Fund,618690000.0,23671.2,11,Low,Medium,5
+2410,411,Mora,Trazzi,ATLO,Finance,NASDAQ,Ames National Corporation,283980000.0,24834.62,12,Low,Medium,1
+2517,518,Maryrose,Giacomoni,JTA,,NYSE,Nuveen Tax-Advantaged Total Return Strategy Fund,174980000.0,24389.27,12,Low,Medium,2
+2240,241,Rickey,Golde,BSD,,NYSE,BlackRock Strategic Municipal Trust Inc. (The),101120000.0,23639.18,12,Low,Medium,3
+2842,843,May,Burnyate,OCIP,Basic Industries,NYSE,OCI Partners LP,782980000.0,23499.88,12,Low,Medium,4
+2157,158,Tomas,Durno,FTGC,,NASDAQ,First Trust Global Tactical Commodity Strategy Fund,148400000.0,23467.21,12,Low,Medium,5
+11540,541,Darla,Wilce,MSFG,Finance,NASDAQ,"MainSource Financial Group, Inc.",861230000.0,49784.38,1,Medium,Medium,1
+11330,331,Meris,Dalliwater,FGP,Consumer Services,NYSE,"Ferrellgas Partners, L.P.",508110000.0,49493.75,1,Medium,Medium,2
+11563,564,Elbert,Cox,PKOH,Capital Goods,NASDAQ,Park-Ohio Holdings Corp.,480350000.0,49364.16,1,Medium,Medium,3
+11370,371,Marnie,Glozman,WLFC,Consumer Durables,NASDAQ,Willis Lease Finance Corporation,170650000.0,48648.41,1,Medium,Medium,4
+11106,107,Chico,De Maria,CBA           ,,NYSE,ClearBridge American Energy MLP Fund Inc.,508590000.0,48507.84,1,Medium,Medium,5
+3921,922,Ellerey,Athow,FENG,Consumer Services,NYSE,Phoenix New Media Limited,203150000.0,49434.62,2,Medium,Medium,1
+3975,976,Linoel,Artis,DRRX,Health Care,NASDAQ,DURECT Corporation,185980000.0,48977.73,2,Medium,Medium,2
+3615,616,Hilly,Marcum,GNRT,Transportation,NYSE,"Gener8 Maritime, Inc.",462920000.0,48846.94,2,Medium,Medium,3
+3369,370,Tawnya,Blatherwick,LDR,Capital Goods,NYSE,"Landauer, Inc.",513320000.00000006,47205.61,2,Medium,Medium,4
+3913,914,Bessie,Gautrey,VVUS,Health Care,NASDAQ,"VIVUS, Inc.",121540000.0,45993.62,2,Medium,Medium,5
+4246,247,Faydra,Lawday,FSBW,Finance,NASDAQ,"FS Bancorp, Inc.",139320000.0,49918.12,3,Medium,Medium,1
+4133,134,Jerrome,Sailes,ECHO,Transportation,NASDAQ,"Echo Global Logistics, Inc.",594580000.0,49856.99,3,Medium,Medium,2
+4722,723,Adena,Di Franceschi,TOWR,Capital Goods,NYSE,"Tower International, Inc.",446680000.0,48380.45,3,Medium,Medium,3
+4461,462,Bron,Taysbil,CXE,,NYSE,Colonial High Income Municipal Trust,165710000.0,48172.35,3,Medium,Medium,4
+4253,254,Dougie,Divis,FLXN,Health Care,NASDAQ,"Flexion Therapeutics, Inc.",546870000.0,48000.52,3,Medium,Medium,5
+5357,358,Ursuline,Plom,WEYS,Consumer Non-Durables,NASDAQ,"Weyco Group, Inc.",291310000.0,49986.44,4,Medium,Medium,1
+5269,270,Casandra,Peirazzi,INO,Health Care,NASDAQ,"Inovio Pharmaceuticals, Inc.",585080000.0,49913.33,4,Medium,Medium,2
+5607,608,Thorstein,MacGilfoyle,TWIN,Technology,NASDAQ,"Twin Disc, Incorporated",194790000.0,48749.14,4,Medium,Medium,3
+5615,616,Caril,Beckett,MOV,Consumer Non-Durables,NYSE,Movado Group Inc.,512470000.0,47857.51,4,Medium,Medium,4
+5653,654,Glyn,Pyrke,JHG,Finance,NYSE,Janus Henderson Group plc,367060000.0,47830.43,4,Medium,Medium,5
+6400,401,Thaddeus,Kenwright,EMCI,Finance,NASDAQ,EMC Insurance Group Inc.,588240000.0,49732.2,5,Medium,Medium,1
+6800,801,Alwyn,Celli,FMCI,Finance,NASDAQ,Forum Merger Corporation,217090000.0,49649.44,5,Medium,Medium,2
+6420,421,Carolyne,Peller,TLGT,Health Care,NASDAQ,"Teligent, Inc.",459340000.0,49375.42,5,Medium,Medium,3
+6756,757,Lucie,Vogel,PGTI,Capital Goods,NYSE,"PGT Innovations, Inc.",610360000.0,49373.11,5,Medium,Medium,4
+6293,294,Loralie,Lampens,RVSB,Finance,NASDAQ,Riverview Bancorp Inc,148350000.0,49298.53,5,Medium,Medium,5
+7594,595,Wayne,Burnsall,FARM,Consumer Non-Durables,NASDAQ,Farmer Brothers Company,517130000.0,49220.67,6,Medium,Medium,1
+7423,424,Mayer,Briat,NM,Transportation,NYSE,Navios Maritime Holdings Inc.,133530000.0,48957.8,6,Medium,Medium,2
+7341,342,Port,Ahlf,ITIC,Finance,NASDAQ,Investors Title Company,365710000.0,48805.1,6,Medium,Medium,3
+7129,130,Rafa,Worsom,AMRK,Basic Industries,NASDAQ,"A-Mark Precious Metals, Inc.",112500000.0,48678.25,6,Medium,Medium,4
+7020,21,Piotr,Melmar,VCRA,Consumer Durables,NYSE,"Vocera Communications, Inc.",763420000.0,48182.78,6,Medium,Medium,5
+8340,341,Balduin,Harrhy,CDXC,Consumer Durables,NASDAQ,ChromaDex Corporation,153950000.0,49959.02,7,Medium,Medium,1
+8516,517,Shelly,Astling,AMRC,Basic Industries,NYSE,"Ameresco, Inc.",308890000.0,49549.41,7,Medium,Medium,2
+8236,237,Fran,Skittles,MCA,,NYSE,"Blackrock MuniYield California Insured Fund, Inc.",517809999.99999994,49401.76,7,Medium,Medium,3
+8836,837,Nellie,Whitelock,JHG,Finance,NYSE,Janus Henderson Group plc,367060000.0,49000.83,7,Medium,Medium,4
+8426,427,Briana,Madgin,SP,Consumer Services,NASDAQ,SP Plus Corporation,676910000.0,48915.8,7,Medium,Medium,5
+9073,74,Alphard,Chartman,KBWR,,NASDAQ,PowerShares KBW Regional Banking Portfolio,164430000.0,49979.91,8,Medium,Medium,1
+9494,495,Tucky,Petto,LMIA,Capital Goods,NASDAQ,"LMI Aerospace, Inc.",191030000.0,49902.73,8,Medium,Medium,2
+9038,39,Tabbi,Midden,GPM,,NYSE,Guggenheim Enhanced Equity Income Fund,392460000.0,49627.77,8,Medium,Medium,3
+9466,467,Georgeanna,Dadson,FPRX,Health Care,NASDAQ,"Five Prime Therapeutics, Inc.",809460000.0,49494.77,8,Medium,Medium,4
+9227,228,Adina,Tiffin,FGB,,NYSE,First Trust Specialty Finance and Financial Opportunities Fund,103460000.0,48542.48,8,Medium,Medium,5
+10319,320,Paten,Flag,FMCI,Finance,NASDAQ,Forum Merger Corporation,217090000.0,49603.22,9,Medium,Medium,1
+10307,308,Stella,Andreev,FOMX,Consumer Durables,NASDAQ,Foamix Pharmaceuticals Ltd.,164160000.0,48955.83,9,Medium,Medium,2
+10953,954,Boris,Docharty,DLTH,Consumer Services,NASDAQ,Duluth Holdings Inc.,558540000.0,48944.21,9,Medium,Medium,3
+10400,401,Gay,Scotchmore,FTSM,,NASDAQ,First Trust Enhanced Short Maturity ETF,966470000.0,48815.24,9,Medium,Medium,4
+10587,588,Hansiain,Craggs,TSBK,Finance,NASDAQ,"Timberland Bancorp, Inc.",177780000.0,48621.11,9,Medium,Medium,5
+529,530,Bale,Furby,ITCI,Health Care,NASDAQ,Intra-Cellular Therapies Inc.,471110000.0,49809.34,10,Medium,Medium,1
+928,929,Luciano,Birrane,TRNC,Consumer Services,NASDAQ,"tronc, Inc.",422690000.0,49502.6,10,Medium,Medium,2
+664,665,Hope,Lippett,FISI,Finance,NASDAQ,"Financial Institutions, Inc.",443540000.0,49483.65,10,Medium,Medium,3
+124,125,Sharona,Frentz,WNEB,Finance,NASDAQ,"Western New England Bancorp, Inc.",332530000.0,49422.93,10,Medium,Medium,4
+803,804,Cathi,Ianittello,ESCA,Consumer Non-Durables,NASDAQ,"Escalade, Incorporated",182920000.0,49304.34,10,Medium,Medium,5
+1213,214,Leigh,Razzell,IDRA,Health Care,NASDAQ,"Idera Pharmaceuticals, Inc.",237150000.0,49278.33,11,Medium,Medium,1
+1848,849,Ciel,Puzey,PLOW,Capital Goods,NYSE,"Douglas Dynamics, Inc.",689020000.0,48873.06,11,Medium,Medium,2
+1796,797,Bell,Thumnel,ALJJ,Miscellaneous,NASDAQ,"ALJ Regional Holdings, Inc.",113530000.0,48353.48,11,Medium,Medium,3
+1208,209,Goddart,Canner,ICFI,Consumer Services,NASDAQ,"ICF International, Inc.",882650000.0,48226.04,11,Medium,Medium,4
+1579,580,Ninette,Finnemore,RUTH,Consumer Services,NASDAQ,"Ruth's Hospitality Group, Inc.",708870000.0,48069.14,11,Medium,Medium,5
+2827,828,Ofella,Biers,IEUS,,NASDAQ,iShares MSCI Europe Small-Cap ETF,126720000.0,49564.15,12,Medium,Medium,1
+2530,531,Grant,O'Hickey,FVC,,NASDAQ,First Trust Dorsey Wright Dynamic Focus 5 ETF,318660000.0,49366.63,12,Medium,Medium,2
+2981,982,Jerrie,Debling,TTI,Energy,NYSE,"Tetra Technologies, Inc.",364090000.0,48925.34,12,Medium,Medium,3
+2342,343,Brocky,Couldwell,SA,Basic Industries,NYSE,"Seabridge Gold, Inc.",559330000.0,48821.28,12,Medium,Medium,4
+2767,768,Gail,Arntzen,PTSI,Transportation,NASDAQ,"P.A.M. Transportation Services, Inc.",129340000.0,48733.1,12,Medium,Medium,5
+11257,258,Sabra,Windrus,KCAP,,NASDAQ,"KCAP Financial, Inc.",128800000.00000001,99956.14,1,Very Large,Medium,1
+11954,955,Cortney,Sorro,CCN,Finance,NASDAQ,CardConnect Corp.,472080000.0,99811.53,1,Very Large,Medium,2
+11279,280,Thalia,Crowson,FEM,,NASDAQ,First Trust Emerging Markets AlphaDEX Fund,274060000.0,98925.1,1,Very Large,Medium,3
+11734,735,Thorndike,Marchi,LLEX,Energy,NASDAQ,"Lilis Energy, Inc.",267730000.00000003,98911.08,1,Very Large,Medium,4
+11296,297,Philippa,Layton,CAMT,Capital Goods,NASDAQ,Camtek Ltd.,197240000.0,98851.52,1,Very Large,Medium,5
+3053,54,Care,Hamilton,MPB,Finance,NASDAQ,Mid Penn Bancorp,114750000.0,99994.68,2,Very Large,Medium,1
+3214,215,Sibylla,Wilgar,THQ,,NYSE,Tekla Healthcare Opportunies Fund,772410000.0,99728.24,2,Very Large,Medium,2
+3939,940,Demetris,Burnsides,ASMB,Health Care,NASDAQ,"Assembly Biosciences, Inc.",377450000.0,99224.2,2,Very Large,Medium,3
+3689,690,Hilton,Echalier,RARX,Health Care,NASDAQ,"Ra Pharmaceuticals, Inc.",480690000.0,99180.45,2,Very Large,Medium,4
+3729,730,Arny,Wychard,NERV,Health Care,NASDAQ,"Minerva Neurosciences, Inc",356040000.0,98203.42,2,Very Large,Medium,5
+4739,740,Babbette,Cusack,DLNG,Consumer Services,NYSE,Dynagas LNG Partners LP,517440000.00000006,99739.7,3,Very Large,Medium,1
+4293,294,Estel,Lohmeyer,BPT,Energy,NYSE,BP Prudhoe Bay Royalty Trust,445120000.0,99716.89,3,Very Large,Medium,2
+4446,447,Michaella,Kennerknecht,EACQ,Capital Goods,NASDAQ,Easterly Acquisition Corp.,251250000.0,99678.28,3,Very Large,Medium,3
+4662,663,Mirabella,Liversley,EPZM,Health Care,NASDAQ,"Epizyme, Inc.",796590000.0,99543.14,3,Very Large,Medium,4
+4619,620,Nicko,Edmands,IFN,,NYSE,"India Fund, Inc. (The)",774330000.0,99498.54,3,Very Large,Medium,5
+5237,238,Orella,Dockreay,RRD,Miscellaneous,NASDAQ,R.R. Donnelley & Sons Company,864500000.0,99982.79,4,Very Large,Medium,1
+5824,825,Roberta,Caunter,SBRAP,Consumer Services,NASDAQ,"Sabra Healthcare REIT, Inc.",146630000.0,99611.62,4,Very Large,Medium,2
+5068,69,Abigale,Lindermann,USDP,Transportation,NYSE,USD Partners LP,300480000.0,99437.08,4,Very Large,Medium,3
+5058,59,Konstance,O' Loughran,FRP,Public Utilities,NASDAQ,"FairPoint Communications, Inc.",423980000.0,99164.81,4,Very Large,Medium,4
+5427,428,Deena,Harbert,ACBI,Finance,NASDAQ,"Atlantic Capital Bancshares, Inc.",482160000.0,98972.02,4,Very Large,Medium,5
+6358,359,Elbert,Youngman,DGICB,Finance,NASDAQ,"Donegal Group, Inc.",395710000.0,99801.39,5,Very Large,Medium,1
+6576,577,Hortensia,Heart,ACET,Health Care,NASDAQ,Aceto Corporation,437060000.0,99113.45,5,Very Large,Medium,2
+6228,229,Reinaldo,Strowlger,MYI,,NYSE,"Blackrock MuniYield Quality Fund III, Inc.",975820000.0,98236.89,5,Very Large,Medium,3
+6294,295,Skippie,Sanchis,LNN,Capital Goods,NYSE,Lindsay Corporation,914460000.0,98208.86,5,Very Large,Medium,4
+6870,871,Kennie,Mallord,TSI,,NYSE,"TCW Strategic Income Fund, Inc.",271820000.0,98154.0,5,Very Large,Medium,5
+7526,527,Blondell,Stable,ELEC,Finance,NASDAQ,Electrum Special Acquisition Corporation,252500000.0,98733.53,6,Very Large,Medium,1
+7570,571,Kameko,Greenway,HTD,,NYSE,John Hancock Tax Advantaged Dividend Income Fund,901610000.0,98596.3,6,Very Large,Medium,2
+7858,859,Max,Kasper,SGMO,Health Care,NASDAQ,"Sangamo Therapeutics, Inc.",535950000.00000006,98510.78,6,Very Large,Medium,3
+7237,238,Glynn,Hawken,ACFC,Finance,NASDAQ,Atlantic Coast Financial Corporation,119140000.0,98337.86,6,Very Large,Medium,4
+7048,49,Cahra,Keatley,FBIO,Health Care,NASDAQ,"Fortress Biotech, Inc.",222970000.0,97961.94,6,Very Large,Medium,5
+8465,466,Coralyn,Bartoshevich,GNMA,,NASDAQ,iShares GNMA Bond ETF,174890000.0,99605.26,7,Very Large,Medium,1
+8905,906,Lizette,Poppleton,LDR,Capital Goods,NYSE,"Landauer, Inc.",513320000.00000006,99523.5,7,Very Large,Medium,2
+8214,215,Matthus,Rathmell,PER,Energy,NYSE,SandRidge Permian Trust,150940000.0,99134.55,7,Very Large,Medium,3
+8823,824,Joshia,Adams,HK,Energy,NYSE,Halcon Resources Corporation,660530000.0,99073.46,7,Very Large,Medium,4
+8552,553,Melina,Sydall,CCXI,Health Care,NASDAQ,"ChemoCentryx, Inc.",351670000.0,98401.54,7,Very Large,Medium,5
+9395,396,Anderea,Caramuscia,KEM,Capital Goods,NYSE,Kemet Corporation,651310000.0,99911.79,8,Very Large,Medium,1
+9852,853,Goldina,Thunderchief,VCRA,Consumer Durables,NYSE,"Vocera Communications, Inc.",763420000.0,99808.72,8,Very Large,Medium,2
+9112,113,Fin,Jollie,ARDC,,NYSE,"Ares Dynamic Credit Allocation Fund, Inc.",378210000.0,99728.76,8,Very Large,Medium,3
+9811,812,Conroy,Bramley,CCM,Health Care,NYSE,Concord Medical Services Holdings Limited,153070000.0,99535.36,8,Very Large,Medium,4
+9665,666,Vicki,Thripp,BGX,,NYSE,Blackstone GSO Long Short Credit Income Fund,207430000.0,98834.66,8,Very Large,Medium,5
+10836,837,Tessy,Whifen,JHD,,NYSE,Nuveen High Income December 2019 Target Term Fund,277100000.0,99770.29,9,Very Large,Medium,1
+10680,681,Brewster,Fawcitt,KIO,,NYSE,KKR Income Opportunities Fund,271700000.0,98969.32,9,Very Large,Medium,2
+10412,413,Gusella,Ashurst,MPO,Energy,NYSE,"MIDSTATES PETROLEUM COMPANY, INC.",364190000.0,97778.79,9,Very Large,Medium,3
+10621,622,Diane-marie,Seamon,NBB,,NYSE,Nuveen Build America Bond Fund,555700000.0,96635.42,9,Very Large,Medium,4
+10984,985,Amos,Meek,FOF,,NYSE,"Cohen & Steers Closed-End Opportunity Fund, Inc.",351000000.0,96261.32,9,Very Large,Medium,5
+201,202,Bette-ann,Harmar,STON,Consumer Services,NYSE,StoneMor Partners L.P.,345320000.0,99845.03,10,Very Large,Medium,1
+275,276,Mickey,Voelker,MERC,Basic Industries,NASDAQ,Mercer International Inc.,769940000.0,99152.32,10,Very Large,Medium,2
+954,955,Stace,McKerton,IMOS,Technology,NASDAQ,ChipMOS TECHNOLOGIES INC.,899860000.0,98999.48,10,Very Large,Medium,3
+399,400,Mallorie,Bettington,MUI,,NYSE,Blackrock Muni Intermediate Duration Fund Inc,539980000.0,98860.88,10,Very Large,Medium,4
+217,218,Maxim,Counsell,BRSS,Capital Goods,NYSE,"Global Brass and Copper Holdings, Inc.",675150000.0,98376.42,10,Very Large,Medium,5
+1662,663,Channa,Kimbell,JCE,,NYSE,Nuveen Core Equity Alpha Fund,234720000.0,99835.42,11,Very Large,Medium,1
+1334,335,Colman,Lewens,SNDX,Health Care,NASDAQ,"Syndax Pharmaceuticals, Inc.",204470000.0,99626.29,11,Very Large,Medium,2
+1477,478,Dani,Neem,KANG,Health Care,NASDAQ,"iKang Healthcare Group, Inc.",980680000.0,99531.82,11,Very Large,Medium,3
+1006,7,Debora,Jehaes,PGTI,Capital Goods,NASDAQ,"PGT Innovations, Inc.",610360000.0,99504.15,11,Very Large,Medium,4
+1641,642,Krispin,Kareman,CHSCN,Consumer Services,NASDAQ,CHS Inc,497620000.0,99252.74,11,Very Large,Medium,5
+2797,798,Tiff,Cruickshanks,CTT           ,Consumer Services,NYSE,"CatchMark Timber Trust, Inc.",452920000.0,99520.02,12,Very Large,Medium,1
+2652,653,Pren,Sillis,NEWT,,NASDAQ,Newtek Business Services Corp.,283590000.0,99497.72,12,Very Large,Medium,2
+2534,535,Morgana,Cheale,KFRC,Technology,NASDAQ,"Kforce, Inc.",498130000.0,99243.8,12,Very Large,Medium,3
+2394,395,Stormy,McCuaig,DEA,Consumer Services,NYSE,"Easterly Government Properties, Inc.",779290000.0,99234.0,12,Very Large,Medium,4
+2046,47,Faustina,Wear,PTGX,Health Care,NASDAQ,"Protagonist Therapeutics, Inc.",177840000.0,98986.78,12,Very Large,Medium,5
+11422,423,Frederic,Marcome,BLH,,NYSE,Blackrock New York Municipal 2018 Term Trust,53990000.0,74802.5,1,Large,Small,1
+11632,633,Dalton,Avesque,AETI,Energy,NASDAQ,"American Electric Technologies, Inc.",12310000.0,74611.89,1,Large,Small,2
+11119,120,Nealson,Hosburn,VSTM,Health Care,NASDAQ,"Verastem, Inc.",74720000.0,74416.07,1,Large,Small,3
+11868,869,Annnora,Holliar,RPRX,Health Care,NASDAQ,Repros Therapeutics Inc.,9140000.0,74395.33,1,Large,Small,4
+11609,610,Kellia,Starking,OPHT,Health Care,NASDAQ,Ophthotech Corporation,93930000.0,74136.15,1,Large,Small,5
+3823,824,Janaya,Mothersdale,GRID,,NASDAQ,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index ,21910000.0,74505.88,2,Large,Small,1
+3693,694,Ursola,Agget,GLBR,Finance,NASDAQ,"Global Brokerage, Inc.",12290000.0,74197.99,2,Large,Small,2
+3229,230,Noak,Newband,AXAR,Finance,NASDAQ,Axar Acquisition Corp.,83790000.0,74010.12,2,Large,Small,3
+3896,897,Bealle,Coare,ASFI,Finance,NASDAQ,"Asta Funding, Inc.",56440000.0,72561.29,2,Large,Small,4
+3626,627,Richmond,Leetham,IFEU,,NASDAQ,iShares FTSE EPRA/NAREIT Europe Index Fund,42370000.0,72093.02,2,Large,Small,5
+4838,839,Deni,Picopp,VRIG,,NASDAQ,PowerShares Variable Rate Investment Grade Portfolio,69290000.0,74913.42,3,Large,Small,1
+4527,528,Gabby,Goldston,ELTK,Technology,NASDAQ,Eltek Ltd.,6800000.0,74326.92,3,Large,Small,2
+4549,550,Horacio,Christall,CREG,Miscellaneous,NASDAQ,China Recycling Energy Corporation,11630000.0,72425.08,3,Large,Small,3
+4705,706,Pansie,Kloska,ZBIO,,NASDAQ,ProShares UltraPro Short NASDAQ Biotechnology,6580000.0,70276.45,3,Large,Small,4
+4472,473,Antonino,Laxen,SNAK,Consumer Non-Durables,NASDAQ,"Inventure Foods, Inc.",83670000.0,69625.7,3,Large,Small,5
+5056,57,Ransom,Masters,KONE,Technology,NASDAQ,Kingtone Wirelessinfo Solution Holding Ltd,5160000.0,74999.62,4,Large,Small,1
+5070,71,Monti,Drew,PMPT,,NASDAQ,iSectors Post-MPT Growth ETF,11340000.0,74887.3,4,Large,Small,2
+5521,522,Niall,Sharpling,PQ,Energy,NYSE,Petroquest Energy Inc,46900000.0,73694.08,4,Large,Small,3
+5995,996,Cletus,Joseff,TLF,Consumer Non-Durables,NASDAQ,"Tandy Leather Factory, Inc.",76520000.0,72741.97,4,Large,Small,4
+5080,81,Edithe,Fortye,PFBX,Finance,NASDAQ,Peoples Financial Corporation,66090000.0,72675.37,4,Large,Small,5
+6012,13,Ellyn,Worner,IPDN,Technology,NASDAQ,"Professional Diversity Network, Inc.",31400000.0,74320.88,5,Large,Small,1
+6453,454,Meggi,De Rye Barrett,AKTX,Health Care,NASDAQ,Akari Therapeutics Plc,56290000.0,74144.16,5,Large,Small,2
+6922,923,Levey,Mortimer,FPT,,NYSE,Federated Premier Intermediate Municipal Income Fund,94960000.0,73712.1,5,Large,Small,3
+6802,803,Becka,Wickmann,AGTC,Health Care,NASDAQ,Applied Genetic Technologies Corporation,91320000.0,72955.03,5,Large,Small,4
+6333,334,Alicea,Marns,DWAQ,,NASDAQ,PowerShares DWA NASDAQ Momentum Portfolio,35540000.0,72826.15,5,Large,Small,5
+7186,187,Nora,de Guise,MOSY,Technology,NASDAQ,"MoSys, Inc.",14150000.0,74191.57,6,Large,Small,1
+7798,799,Gregorius,Solly,HBK,Finance,NASDAQ,"Hamilton Bancorp, Inc.",49800000.0,73200.09,6,Large,Small,2
+7556,557,Carleen,Scardefield,ORIG,Energy,NASDAQ,Ocean Rig UDW Inc.,13200000.0,72480.61,6,Large,Small,3
+7484,485,Nevins,McNair,EYES,,NASDAQ,"Second Sight Medical Products, Inc.",62000000.0,71766.77,6,Large,Small,4
+7414,415,Loria,Vaggers,DXTR,Health Care,NASDAQ,Dextera Surgical Inc.,2970000.0,71473.97,6,Large,Small,5
+8953,954,Shalna,End,SITO,Miscellaneous,NASDAQ,"SITO Mobile, Ltd.",71560000.0,74604.41,7,Large,Small,1
+8643,644,Wayne,Lawerence,ESG,,NASDAQ,FlexShares STOXX US ESG Impact Index Fund,8610000.0,73317.95,7,Large,Small,2
+8638,639,Vina,Dossetter,MSBF,Finance,NASDAQ,MSB Financial Corp.,99400000.0,69252.63,7,Large,Small,3
+8873,874,Franklin,Shoosmith,PPSI,Consumer Durables,NASDAQ,"Pioneer Power Solutions, Inc.",56680000.0,67168.2,7,Large,Small,4
+8187,188,Marietta,Bather,RELL,Consumer Non-Durables,NASDAQ,"Richardson Electronics, Ltd.",75940000.0,67167.98,7,Large,Small,5
+9318,319,Drake,Baccas,TIL,Finance,NASDAQ,Till Capital Ltd.,13150000.0,74684.52,8,Large,Small,1
+9263,264,Mathian,O'Lenane,AKER,Health Care,NASDAQ,Akers Biosciences Inc,11120000.0,74400.39,8,Large,Small,2
+9012,13,Penrod,Gorini,SGRP,Miscellaneous,NASDAQ,"SPAR Group, Inc.",21070000.0,72386.78,8,Large,Small,3
+9061,62,Brigit,Piggford,ESGE,,NASDAQ,iShares MSCI EM ESG Optimized ETF,54380000.0,72167.02,8,Large,Small,4
+9210,211,Britt,Burbudge,SLNO,Health Care,NASDAQ,"Soleno Therapeutics, Inc.",27600000.0,71520.66,8,Large,Small,5
+10944,945,Sibelle,Kubach,SSFN,Finance,NASDAQ,Stewardship Financial Corp,83390000.0,74424.7,9,Large,Small,1
+10297,298,Bernelle,Brabant,AEY,Consumer Services,NASDAQ,"ADDvantage Technologies Group, Inc.",16610000.0,73252.86,9,Large,Small,2
+10964,965,Lion,Dorey,PQ,Energy,NYSE,Petroquest Energy Inc,46900000.0,73110.06,9,Large,Small,3
+10074,75,Jared,Boam,DWCH,Technology,NASDAQ,Datawatch Corporation,96200000.0,72721.3,9,Large,Small,4
+10622,623,Corette,Willsmore,OPHC,Finance,NASDAQ,"OptimumBank Holdings, Inc.",2910000.0,72535.21,9,Large,Small,5
+641,642,Wayland,Leggott,OASM,Health Care,NASDAQ,Oasmia Pharmaceutical AB,38240000.0,72922.81,10,Large,Small,1
+232,233,Corri,Conniam,ALOT,Technology,NASDAQ,"AstroNova, Inc.",90180000.0,72689.82,10,Large,Small,2
+919,920,Jerrie,Laurisch,PEZ,,NASDAQ,PowerShares DWA Consumer Cyclicals Momentum Portfolio,58530000.0,72378.59,10,Large,Small,3
+857,858,Carolee,Randerson,PLXP,Health Care,NASDAQ,PLx Pharma Inc.,1040000.0,69627.59,10,Large,Small,4
+378,379,Tonia,Molesworth,PFBX,Finance,NASDAQ,Peoples Financial Corporation,66090000.0,69169.2,10,Large,Small,5
+1420,421,Marge,Hamper,AGND,,NASDAQ,WisdomTree Barclays Negative Duration U.S. Aggregate Bond Fund,12990000.0,74862.48,11,Large,Small,1
+1790,791,Evvie,Nayer,UBOH,Finance,NASDAQ,"United Bancshares, Inc.",69910000.0,74385.3,11,Large,Small,2
+1297,298,Blondy,Duggon,FMY,,NYSE,First Trust,59410000.0,73973.29,11,Large,Small,3
+1724,725,Merry,Sawford,TNDM,Health Care,NASDAQ,"Tandem Diabetes Care, Inc.",44420000.0,72231.68,11,Large,Small,4
+1965,966,Carlie,Cardow,PXS,Transportation,NASDAQ,Pyxis Tankers Inc.,26870000.0,71717.35,11,Large,Small,5
+2168,169,Granger,Driscoll,CUBA,,NASDAQ,"The Herzfeld Caribbean Basin Fund, Inc.",43730000.0,73570.8,12,Large,Small,1
+2219,220,Rosita,Skittreal,NXN,,NYSE,Nuveen Insured New York Select Tax-Free Income Portfolio,54360000.0,71672.12,12,Large,Small,2
+2817,818,Friederike,Roskelly,AVNW,Technology,NASDAQ,"Aviat Networks, Inc.",93710000.0,70596.71,12,Large,Small,3
+2182,183,Dionisio,Urquhart,PRKR,Technology,NASDAQ,"ParkerVision, Inc.",41590000.0,70305.45,12,Large,Small,4
+2375,376,Porter,Tribble,MZF,,NYSE,Managed Duration Investment Grade Municipal Fund,94050000.0,69346.35,12,Large,Small,5
+11137,138,Luciano,Girauld,PANL,Transportation,NASDAQ,Pangaea Logistics Solutions Ltd.,99120000.0,24071.47,1,Low,Small,1
+11503,504,Jodie,Vaudre,SCON,Technology,NASDAQ,Superconductor Technologies Inc.,17480000.0,23763.24,1,Low,Small,2
+11306,307,Clement,Pedrol,PAGG,,NASDAQ,PowerShares Global Agriculture Portfolio,22370000.0,23587.5,1,Low,Small,3
+11021,22,Davin,Rusling,LINK,Technology,NASDAQ,"Interlink Electronics, Inc.",60660000.0,23502.42,1,Low,Small,4
+11656,657,Wolfy,Paulusch,ONCS,Health Care,NASDAQ,OncoSec Medical Incorporated,21800000.0,23002.82,1,Low,Small,5
+3763,764,Mordecai,Eller,PAVM,Health Care,NASDAQ,PAVmed Inc.,63590000.0,24699.2,2,Low,Small,1
+3256,257,Augustus,Keetley,LKOR,,NASDAQ,FlexShares Credit-Scored US Long Corporate Bond Index Fund,13340000.0,24667.34,2,Low,Small,2
+3841,842,Cyndie,Chessman,HYND,,NASDAQ,WisdomTree Negative Duration High Yield Bond Fund,16530000.000000002,23121.43,2,Low,Small,3
+3456,457,Delainey,Enright,SYMX,Basic Industries,NASDAQ,"Synthesis Energy Systems, Inc.",61120000.0,22782.41,2,Low,Small,4
+3987,988,Byrle,Kloser,ANDA,Finance,NASDAQ,Andina Acquisition Corp. II,53580000.0,22721.93,2,Low,Small,5
+4381,382,Patsy,Millery,PYZ,,NASDAQ,PowerShares DWA Basic Materials Momentum Portfolio,95770000.0,23847.38,3,Low,Small,1
+4170,171,Sheppard,Eighteen,DWLV,,NASDAQ,PowerShares DWA Momentum & Low Volatility Rotation Portfolio,4200000.0,22170.33,3,Low,Small,2
+4762,763,Thebault,Hayton,JAGX,Health Care,NASDAQ,"Jaguar Animal Health, Inc.",8660000.0,22028.9,3,Low,Small,3
+4682,683,Adriaens,Lorrimer,GEVO,Basic Industries,NASDAQ,"Gevo, Inc.",9390000.0,21315.4,3,Low,Small,4
+4795,796,Rustin,Crichmer,MARPS,Energy,NASDAQ,Marine Petroleum Trust,6920000.0,20604.55,3,Low,Small,5
+5082,83,Tannie,Kauscher,ALQA,Health Care,NASDAQ,"Alliqua BioMedical, Inc.",17010000.0,23084.18,4,Low,Small,1
+5322,323,Micki,Rodnight,BLH,,NYSE,Blackrock New York Municipal 2018 Term Trust,53990000.0,22250.34,4,Low,Small,2
+5953,954,Ibby,Coalburn,MIRN,Health Care,NASDAQ,"Mirna Therapeutics, Inc.",31070000.0,21905.34,4,Low,Small,3
+5596,597,Ugo,Joffe,PRCP,Capital Goods,NASDAQ,"Perceptron, Inc.",68490000.0,21546.33,4,Low,Small,4
+5711,712,Holly-anne,Ianne,SOFO,Technology,NASDAQ,"Sonic Foundry, Inc.",17760000.0,21383.49,4,Low,Small,5
+6480,481,Tabby,Montfort,PTX,Health Care,NASDAQ,"Pernix Therapeutics Holdings, Inc.",44570000.0,23490.65,5,Low,Small,1
+6287,288,Cordelie,Hardware,RLOG,Consumer Services,NASDAQ,"Rand Logistics, Inc.",6700000.0,23152.12,5,Low,Small,2
+6445,446,Ansel,De Gouy,FLKS,Health Care,NASDAQ,"Flex Pharma, Inc.",64330000.0,23130.19,5,Low,Small,3
+6111,112,Josefa,Perfect,CBIO,Health Care,NASDAQ,"Catalyst Biosciences, Inc. ",18830000.0,23021.48,5,Low,Small,4
+6856,857,Marcus,Jefferys,SGRP,Miscellaneous,NASDAQ,"SPAR Group, Inc.",21070000.0,22969.32,5,Low,Small,5
+7405,406,Revkah,Sambeck,PY,,NASDAQ,Principal Shareholder Yield Index ETF,7210000.0,24086.99,6,Low,Small,1
+7192,193,Bryanty,Luipold,FPA,,NASDAQ,First Trust Asia Pacific Ex-Japan AlphaDEX Fund,45770000.0,23996.29,6,Low,Small,2
+7552,553,Mal,Harborow,CBIO,Health Care,NASDAQ,"Catalyst Biosciences, Inc. ",18830000.0,21976.83,6,Low,Small,3
+7096,97,Dulci,Leahair,MDVX,Health Care,NASDAQ,Medovex Corp.,18220000.0,21651.12,6,Low,Small,4
+7847,848,Tiffani,Ody,FBSS,Finance,NASDAQ,"Fauquier Bankshares, Inc.",70550000.0,21021.95,6,Low,Small,5
+8399,400,Tansy,Ganiclef,ELON,Technology,NASDAQ,Echelon Corporation,24700000.0,24556.81,7,Low,Small,1
+8556,557,Glynis,Songist,IFEU,,NASDAQ,iShares FTSE EPRA/NAREIT Europe Index Fund,42370000.0,24134.77,7,Low,Small,2
+8048,49,Sashenka,Dealtry,OTIV,Technology,NASDAQ,On Track Innovations Ltd,51370000.0,23968.41,7,Low,Small,3
+8691,692,Farlay,Duffield,AMTX,Basic Industries,NASDAQ,"Aemetis, Inc",29540000.0,23845.56,7,Low,Small,4
+8366,367,Pail,Bartolommeo,CARZ,,NASDAQ,First Trust NASDAQ Global Auto Index Fund,18490000.0,23374.58,7,Low,Small,5
+9166,167,Dev,Busfield,HUNT,Transportation,NASDAQ,Hunter Maritime Acquisition Corp.,42180000.0,24912.09,8,Low,Small,1
+9280,281,Lolita,Colborn,ADHD,Health Care,NASDAQ,Alcobra Ltd.,30870000.0,24561.24,8,Low,Small,2
+9067,68,Cynde,Whittuck,LTRX,Technology,NASDAQ,"Lantronix, Inc.",40450000.0,23764.09,8,Low,Small,3
+9763,764,Katalin,Farnsworth,THLD,Health Care,NASDAQ,"Threshold Pharmaceuticals, Inc.",27590000.0,23467.85,8,Low,Small,4
+9878,879,Talyah,Bullcock,DWLV,,NASDAQ,PowerShares DWA Momentum & Low Volatility Rotation Portfolio,4200000.0,22142.47,8,Low,Small,5
+10596,597,Meta,Levensky,NTIC,Capital Goods,NASDAQ,Northern Technologies International Corporation,73300000.0,24487.17,9,Low,Small,1
+10198,199,Daryle,Stoile,OLD,,NASDAQ,The Long-Term Care ETF,2700000.0,24207.47,9,Low,Small,2
+10082,83,Claudine,Blackaller,LRAD,Consumer Non-Durables,NASDAQ,LRAD Corporation,51200000.0,22730.57,9,Low,Small,3
+10472,473,Ethan,Hilhouse,IRMD,Health Care,NASDAQ,iRadimed Corporation,92990000.0,22445.24,9,Low,Small,4
+10454,455,Nero,Spennock,AEY,Consumer Services,NASDAQ,"ADDvantage Technologies Group, Inc.",16610000.0,21828.43,9,Low,Small,5
+806,807,Umeko,McElrath,PANL,Transportation,NASDAQ,Pangaea Logistics Solutions Ltd.,99120000.0,24824.84,10,Low,Small,1
+793,794,Brocky,McKag,INOD,Technology,NASDAQ,Innodata Inc.,41400000.0,24206.09,10,Low,Small,2
+868,869,Lorena,Schuh,SOHO,Consumer Services,NASDAQ,Sotherly Hotels Inc.,91070000.0,23897.84,10,Low,Small,3
+446,447,Agustin,Smickle,ZSAN,Health Care,NASDAQ,Zosano Pharma Corporation,52530000.0,23682.55,10,Low,Small,4
+994,995,Isiahi,Abbot,CPHC,Consumer Services,NASDAQ,Canterbury Park Holding Corporation,47650000.0,23553.0,10,Low,Small,5
+1928,929,Viva,Dobkin,FNCX,Technology,NASDAQ,Function(x) Inc.,14240000.0,23591.52,11,Low,Small,1
+1270,271,Quillan,Artus,CALI,Consumer Services,NASDAQ,China Auto Logistics Inc.,8189999.999999999,21765.54,11,Low,Small,2
+1375,376,Llywellyn,Bortolotti,RWLK,Health Care,NASDAQ,ReWalk Robotics Ltd,20840000.0,21107.4,11,Low,Small,3
+1287,288,Rozalin,Monsey,WILC,Consumer Non-Durables,NASDAQ,"G. Willi-Food International,  Ltd.",92420000.0,21023.5,11,Low,Small,4
+1158,159,Osborne,Bigadike,MSDI,Technology,NASDAQ,"Monster Digital, Inc.",4110000.0000000005,20964.05,11,Low,Small,5
+2120,121,Hank,Gubbin,SBOT,Health Care,NASDAQ,"Stellar Biotechnologies, Inc.",11350000.0,24673.59,12,Low,Small,1
+2441,442,D'arcy,Ouldcott,FKU,,NASDAQ,First Trust United Kingdom AlphaDEX Fund,27490000.0,23513.72,12,Low,Small,2
+2171,172,Colan,Fick,CREG,Miscellaneous,NASDAQ,China Recycling Energy Corporation,11630000.0,22532.76,12,Low,Small,3
+2712,713,Madelene,Butt Gow,MTR,Energy,NYSE,Mesa Royalty Trust,22460000.0,21851.41,12,Low,Small,4
+2300,301,Colver,Gilardi,SSNT,Miscellaneous,NASDAQ,"SilverSun Technologies, Inc.",16120000.000000002,21532.2,12,Low,Small,5
+11153,154,Sherline,Vowels,IZEA,Consumer Services,NASDAQ,IZEA Inc.,12380000.0,48496.19,1,Medium,Small,1
+11924,925,Berny,McGerr,CWAY,Finance,NASDAQ,"Coastway Bancorp, Inc.",91140000.0,47391.07,1,Medium,Small,2
+11627,628,Atalanta,Pascall,HIHO,Capital Goods,NASDAQ,Highway Holdings Limited,12900000.0,45683.5,1,Medium,Small,3
+11294,295,Normie,Simms,EGT,Consumer Durables,NASDAQ,Entertainment Gaming Asia Incorporated,33920000.0,43712.69,1,Medium,Small,4
+11682,683,Hercules,Tinner,LPTX,Health Care,NASDAQ,"LEAP THERAPEUTICS, INC.",54950000.0,43500.13,1,Medium,Small,5
+3392,393,Drona,Rusbridge,ARCI,Consumer Services,NASDAQ,"Appliance Recycling Centers of America, Inc.",4390000.0,49738.01,2,Medium,Small,1
+3830,831,Deonne,Podbury,AKER,Health Care,NASDAQ,Akers Biosciences Inc,11120000.0,49686.26,2,Medium,Small,2
+3684,685,Loy,Matijasevic,BONT,Consumer Services,NASDAQ,"The Bon-Ton Stores, Inc.",10540000.0,49262.09,2,Medium,Small,3
+3122,123,Somerset,Hugk,CVO,Consumer Durables,NYSE,Cenveo Inc,52170000.0,48871.85,2,Medium,Small,4
+3210,211,Gina,House,MNI,Consumer Services,NYSE,McClatchy Company (The),85510000.0,48567.77,2,Medium,Small,5
+4965,966,Dalenna,Armand,SBOT,Health Care,NASDAQ,"Stellar Biotechnologies, Inc.",11350000.0,49483.58,3,Medium,Small,1
+4976,977,Wendeline,Trathan,ARCW,Capital Goods,NASDAQ,"ARC Group Worldwide, Inc.",61780000.0,48341.36,3,Medium,Small,2
+4867,868,Karrah,Tavener,TUTT,,NASDAQ,Tuttle Tactical Management U.S. Core ETF,54070000.0,47968.81,3,Medium,Small,3
+4726,727,De witt,Hazel,RMCF,Consumer Non-Durables,NASDAQ,"Rocky Mountain Chocolate Factory, Inc.",68380000.0,47373.07,3,Medium,Small,4
+4855,856,Omero,Tasseler,STRM,Technology,NASDAQ,"Streamline Health Solutions, Inc.",21440000.0,46658.42,3,Medium,Small,5
+5481,482,Adrianna,Headley,DWAT,,NASDAQ,Arrow DWA Tactical ETF,8670000.0,49905.45,4,Medium,Small,1
+5904,905,Wesley,Went,NTIC,Capital Goods,NASDAQ,Northern Technologies International Corporation,73300000.0,49660.59,4,Medium,Small,2
+5737,738,Chrysa,Scini,CADC,Basic Industries,NASDAQ,"China Advanced Construction Materials Group, Inc.",5730000.0,49544.4,4,Medium,Small,3
+5088,89,Sonia,Mapstone,DGLD,Finance,NASDAQ,VelocityShares 3x Inverse Gold ETN,18660000.0,48531.32,4,Medium,Small,4
+5639,640,Bellanca,Martinyuk,HBIO,Capital Goods,NASDAQ,"Harvard Bioscience, Inc.",86550000.0,48320.17,4,Medium,Small,5
+6644,645,Giulia,Rosi,MARK,Consumer Services,NASDAQ,"Remark Holdings, Inc.",57310000.0,48745.09,5,Medium,Small,1
+6437,438,Opaline,Antos,WYIGU,Finance,NASDAQ,JM Global Holding Company,67860000.0,48225.7,5,Medium,Small,2
+6972,973,Christye,McGarvie,FTXL,,NASDAQ,First Trust Nasdaq Semiconductor ETF,21580000.0,47878.22,5,Medium,Small,3
+6920,921,Skip,Allix,AXR,Consumer Services,NYSE,AMREP Corporation,56380000.0,47057.47,5,Medium,Small,4
+6217,218,Haleigh,Pretty,PTIE,Health Care,NASDAQ,"Pain Therapeutics, Inc.",27030000.0,46914.07,5,Medium,Small,5
+7079,80,Courtney,Mayo,DAVE,Consumer Services,NASDAQ,"Famous Dave's of America, Inc.",24350000.0,49427.98,6,Medium,Small,1
+7734,735,Langsdon,Cortese,HOS,Consumer Services,NYSE,Hornbeck Offshore Services,97070000.0,48689.45,6,Medium,Small,2
+7693,694,Jerrylee,Andrini,SRET,,NASDAQ,Global X SuperDividend REIT ETF,3090000.0,47654.27,6,Medium,Small,3
+7368,369,Jorge,Spacy,FBZ,,NASDAQ,First Trust Brazil AlphaDEX Fund,25390000.0,47325.13,6,Medium,Small,4
+7742,743,Kristine,Sabater,PRAN,Health Care,NASDAQ,Prana Biotechnology Ltd,18770000.0,47041.11,6,Medium,Small,5
+8463,464,Rosamund,Goosey,SEED,Consumer Non-Durables,NASDAQ,Origin Agritech Limited,32450000.000000004,48603.15,7,Medium,Small,1
+8773,774,Danica,Lavallin,MBRX,Health Care,NASDAQ,"Moleculin Biotech, Inc.",14380000.0,48281.66,7,Medium,Small,2
+8577,578,Glyn,Goude,GNVC,Health Care,NASDAQ,"GenVec, Inc.",16350000.000000002,46929.79,7,Medium,Small,3
+8987,988,Sander,Degoe,YTEN,Basic Industries,NASDAQ,"Yield10 Bioscience, Inc.",1440000.0,46925.56,7,Medium,Small,4
+8193,194,Jolene,Hartil,ICAD,Health Care,NASDAQ,icad inc.,68610000.0,45976.56,7,Medium,Small,5
+9413,414,Phillip,Norwell,PSL,,NASDAQ,PowerShares DWA Consumer Staples Momentum Portfolio,78330000.0,49205.79,8,Medium,Small,1
+9400,401,Benedetta,Bartomeu,KOSS,Consumer Non-Durables,NASDAQ,Koss Corporation,14100000.0,47984.29,8,Medium,Small,2
+9242,243,Avigdor,Ramsby,PFI,,NASDAQ,PowerShares DWA Financial Momentum Portfolio,78450000.0,47030.96,8,Medium,Small,3
+9080,81,Sapphira,Camp,AEHR,Capital Goods,NASDAQ,Aehr Test Systems,79320000.0,46857.85,8,Medium,Small,4
+9772,773,Sly,Fargher,TGA,Energy,NASDAQ,Transglobe Energy Corp,92420000.0,45874.74,8,Medium,Small,5
+10721,722,Kora,Furmedge,XOMA,Health Care,NASDAQ,XOMA Corporation,48400000.0,49899.45,9,Medium,Small,1
+10545,546,Constantine,Maso,BIOP,Health Care,NASDAQ,"Bioptix, Inc",19420000.0,48518.18,9,Medium,Small,2
+10370,371,Mignonne,Daws,AIRT,Transportation,NASDAQ,"Air T, Inc.",38810000.0,46681.4,9,Medium,Small,3
+10552,553,Thaddeus,Kryszkiecicz,SRTS,Health Care,NASDAQ,"Sensus Healthcare, Inc.",52750000.0,45440.72,9,Medium,Small,4
+10969,970,Anet,Lyard,FKO,,NASDAQ,First Trust South Korea AlphaDEX Fund,5410000.0,45330.21,9,Medium,Small,5
+894,895,Anthea,Element,APDN,Consumer Services,NASDAQ,Applied DNA Sciences Inc,26320000.0,48801.46,10,Medium,Small,1
+804,805,Kathrine,Tison,FFHL,Capital Goods,NASDAQ,"Fuwei Films (Holdings) Co., Ltd.",10060000.0,48363.57,10,Medium,Small,2
+638,639,Gearard,Jansky,TPIV,Health Care,NASDAQ,TapImmune Inc.,33540000.0,47228.81,10,Medium,Small,3
+437,438,Frank,Waterhowse,CHEK,Health Care,NASDAQ,Check-Cap Ltd.,29390000.0,46787.55,10,Medium,Small,4
+778,779,Stacy,Donhardt,PNBK,Finance,NASDAQ,Patriot National Bancorp Inc.,60360000.0,45652.92,10,Medium,Small,5
+1808,809,Renaud,Hardeman,OLD,,NASDAQ,The Long-Term Care ETF,2700000.0,49686.71,11,Medium,Small,1
+1216,217,Ariana,Sulman,PN,Finance,NYSE,"Patriot National, Inc.",64459999.99999999,49231.68,11,Medium,Small,2
+1147,148,Sylvester,Chapleo,OCRX,Health Care,NASDAQ,"Ocera Therapeutics, Inc.",25450000.0,48633.57,11,Medium,Small,3
+1449,450,Lynnea,O'Hear,IFEU,,NASDAQ,iShares FTSE EPRA/NAREIT Europe Index Fund,42370000.0,47671.06,11,Medium,Small,4
+1874,875,Tally,Laity,SOHO,Consumer Services,NASDAQ,Sotherly Hotels Inc.,91070000.0,47631.42,11,Medium,Small,5
+2288,289,Cletis,Leel,LINC,Consumer Services,NASDAQ,Lincoln Educational Services Corporation,80580000.0,49548.7,12,Medium,Small,1
+2514,515,Inness,Trunkfield,SGBX,,NASDAQ,"SG Blocks, Inc.",87854.2,48687.87,12,Medium,Small,2
+2426,427,Valina,Shelliday,CNTF,,NASDAQ,China TechFaith Wireless Communication Technology Limited,33670000.0,47599.22,12,Medium,Small,3
+2259,260,Chloe,Venny,LBF,,NYSE,"Scudder Global High Income Fund, Inc.",56460000.0,46592.33,12,Medium,Small,4
+2841,842,Ulberto,Almon,MTBC,Technology,NASDAQ,"Medical Transcription Billing, Corp.",19070000.0,46529.94,12,Medium,Small,5
+11430,431,Morley,Bogey,FCAN,,NASDAQ,First Trust Canada AlphaDEX Fund,5610000.0,99610.74,1,Very Large,Small,1
+11793,794,Merrick,Seel,EPIX,Health Care,NASDAQ,ESSA Pharma Inc.,19790000.0,98758.62,1,Very Large,Small,2
+11160,161,Rudiger,Mathieson,FLKS,Health Care,NASDAQ,"Flex Pharma, Inc.",64330000.0,96663.47,1,Very Large,Small,3
+11357,358,Sarajane,Brunelleschi,ELTK,Technology,NASDAQ,Eltek Ltd.,6800000.0,96189.86,1,Very Large,Small,4
+11727,728,Cassandre,Gravells,MN,Finance,NYSE,"Manning & Napier, Inc.",63230000.0,95514.58,1,Very Large,Small,5
+3405,406,Phedra,Bleckly,OBCI,Consumer Durables,NASDAQ,"Ocean Bio-Chem, Inc.",37260000.0,99288.11,2,Very Large,Small,1
+3875,876,Allison,Pash,STLR,Finance,NASDAQ,Stellar Acquisition III Inc.,90190000.0,99129.78,2,Very Large,Small,2
+3363,364,Todd,Barrowcliff,FLGT,Health Care,NASDAQ,"Fulgent Genetics, Inc.",92710000.0,98714.61,2,Very Large,Small,3
+3038,39,Giacopo,Raitie,MTGEP,Consumer Services,NASDAQ,MTGE Investment Corp.,52000000.0,97624.85,2,Very Large,Small,4
+3322,323,Auria,Smissen,LGCYP,Energy,NASDAQ,Legacy Reserves LP,13080000.0,95959.91,2,Very Large,Small,5
+4176,177,Almeta,Halahan,ROYT,Energy,NYSE,Pacific Coast Oil Trust,61730000.0,99754.65,3,Very Large,Small,1
+4395,396,Livvy,Irving,FORD,Consumer Non-Durables,NASDAQ,"Forward Industries, Inc.",9570000.0,99382.92,3,Very Large,Small,2
+4433,434,Oberon,Shemming,BCTF,Finance,NASDAQ,"Bancorp 34, Inc.",47360000.0,97804.66,3,Very Large,Small,3
+4510,511,Kenton,Bernardy,AMMA,Consumer Services,NASDAQ,"Alliance MMA, Inc.",10910000.0,96568.65,3,Very Large,Small,4
+4349,350,Madelle,Castillou,TROV,Health Care,NASDAQ,"TrovaGene, Inc.",29240000.0,96244.27,3,Very Large,Small,5
+5000,1,Hadley,Willets,AFMD,Health Care,NASDAQ,Affimed N.V.,87880000.0,99959.38,4,Very Large,Small,1
+5244,245,Petronia,Moulin,RTTR,Health Care,NASDAQ,"Ritter Pharmaceuticals, Inc.",9140000.0,98807.33,4,Very Large,Small,2
+5236,237,Eldredge,Eymer,ONVI,Miscellaneous,NASDAQ,"Onvia, Inc.",30650000.0,98193.88,4,Very Large,Small,3
+5103,104,Aurelea,Mallall,DVCR,Health Care,NASDAQ,Diversicare Healthcare Services Inc.,62000000.0,98059.53,4,Very Large,Small,4
+5954,955,Kristan,Bloan,ARLZ,Health Care,NASDAQ,Aralez Pharmaceuticals Inc.,79480000.0,97660.24,4,Very Large,Small,5
+6251,252,Robinet,Keilty,DTYL,Finance,NASDAQ,iPath US Treasury 10-year Bull ETN,5270000.0,99565.5,5,Very Large,Small,1
+6161,162,Phoebe,Earlam,RADA,Consumer Non-Durables,NASDAQ,RADA Electronic Industries Ltd.,36150000.0,98743.23,5,Very Large,Small,2
+6045,46,Filippa,McGillacoell,FLN,,NASDAQ,First Trust Latin America AlphaDEX Fund,35140000.0,97059.76,5,Very Large,Small,3
+6169,170,Ciro,Kebbell,TEAR,Health Care,NASDAQ,TearLab Corporation,9010000.0,96069.44,5,Very Large,Small,4
+6324,325,Orly,Conner,GFA,Basic Industries,NYSE,Gafisa SA,95340000.0,94675.84,5,Very Large,Small,5
+7102,103,Kathrine,Jentges,FCEL,Miscellaneous,NASDAQ,"FuelCell Energy, Inc.",65530000.0,99071.0,6,Very Large,Small,1
+7471,472,Ivy,Perks,CASI,Health Care,NASDAQ,"CASI Pharmaceuticals, Inc.",55380000.0,98738.91,6,Very Large,Small,2
+7658,659,Giulietta,Hedworth,UBCP,Finance,NASDAQ,"United Bancorp, Inc.",63570000.0,98586.61,6,Very Large,Small,3
+7254,255,Reade,Rosewall,TUES,Consumer Services,NASDAQ,Tuesday Morning Corp.,83440000.0,97735.51,6,Very Large,Small,4
+7036,37,Clementia,Walduck,LTRX,Technology,NASDAQ,"Lantronix, Inc.",40450000.0,96750.42,6,Very Large,Small,5
+8679,680,Niccolo,Perillo,DWAQ,,NASDAQ,PowerShares DWA NASDAQ Momentum Portfolio,35540000.0,99843.63,7,Very Large,Small,1
+8584,585,Jena,Mattiazzi,HOTR,Consumer Services,NASDAQ,"Chanticleer Holdings, Inc.",6310000.0,99399.76,7,Very Large,Small,2
+8096,97,Hashim,Curran,SGBX,,NASDAQ,"SG Blocks, Inc.",87854.2,99286.05,7,Very Large,Small,3
+8589,590,Tiler,Abley,TRIL,Health Care,NASDAQ,Trillium Therapeutics Inc.,49000000.0,99022.19,7,Very Large,Small,4
+8123,124,Silvia,Whylie,SKIS,Consumer Services,NASDAQ,"Peak Resorts, Inc.",59430000.0,97259.06,7,Very Large,Small,5
+9614,615,Aron,Brotherhood,HFBL,Finance,NASDAQ,"Home Federal Bancorp, Inc. of Louisiana",48460000.0,99258.91,8,Very Large,Small,1
+9925,926,Zeb,Millgate,STPP,Finance,NASDAQ,iPath US Treasury Steepener ETN,3250000.0,98186.87,8,Very Large,Small,2
+9735,736,Glynnis,Bunch,VBFC,Finance,NASDAQ,Village Bank and Trust Financial Corp.,44250000.0,97956.95,8,Very Large,Small,3
+9162,163,Korella,Little,FCEL,Miscellaneous,NASDAQ,"FuelCell Energy, Inc.",65530000.0,96915.59,8,Very Large,Small,4
+9272,273,Pate,Rainville,URRE,Basic Industries,NASDAQ,"Uranium Resources, Inc.",34590000.0,96094.6,8,Very Large,Small,5
+10075,76,Maddi,Taber,AVNW,Technology,NASDAQ,"Aviat Networks, Inc.",93710000.0,99898.79,9,Very Large,Small,1
+10771,772,Christan,Allard,ONCS,Health Care,NASDAQ,OncoSec Medical Incorporated,21800000.0,98784.35,9,Very Large,Small,2
+10853,854,Andeee,Hirsthouse,JYNT,Miscellaneous,NASDAQ,The Joint Corp.,48270000.0,97883.17,9,Very Large,Small,3
+10003,4,Rogerio,Cran,CTHR,Consumer Durables,NASDAQ,Charles & Colvard Ltd,19680000.0,97881.35,9,Very Large,Small,4
+10404,405,Ganny,Kusick,MILN,,NASDAQ,Global X Millennials Thematic ETF,4360000.0,97859.67,9,Very Large,Small,5
+755,756,Britni,Saltsberg,SYNL,Basic Industries,NASDAQ,Synalloy Corporation,96770000.0,99576.99,10,Very Large,Small,1
+559,560,Gina,Crufts,ALOT,Technology,NASDAQ,"AstroNova, Inc.",90180000.0,99256.95,10,Very Large,Small,2
+186,187,Stefania,Moreinis,TLF,Consumer Non-Durables,NASDAQ,"Tandy Leather Factory, Inc.",76520000.0,98740.9,10,Very Large,Small,3
+825,826,Nickolas,Penketh,NWY,Consumer Services,NYSE,"New York & Company, Inc.",86050000.0,98710.89,10,Very Large,Small,4
+945,946,Johny,Petrosian,IROQ,Finance,NASDAQ,"IF Bancorp, Inc.",77630000.0,98433.17,10,Very Large,Small,5
+1244,245,Padraic,Doerling,RELY,Consumer Non-Durables,NASDAQ,"Real Industry, Inc. ",90880000.0,99981.8,11,Very Large,Small,1
+1822,823,Gwyneth,Connochie,GALE,Health Care,NASDAQ,"Galena Biopharma, Inc.",20660000.0,99001.84,11,Very Large,Small,2
+1593,594,Flory,Wase,LKOR,,NASDAQ,FlexShares Credit-Scored US Long Corporate Bond Index Fund,13340000.0,98672.32,11,Very Large,Small,3
+1111,112,Abbye,Siddle,JSYN,Finance,NASDAQ,Jensyn Acquistion Corp.,52880000.0,97741.45,11,Very Large,Small,4
+1500,501,Harwilll,Escreet,CHFS,Health Care,NASDAQ,"CHF Solutions, Inc.",5220000.0,97660.22,11,Very Large,Small,5
+2352,353,Welbie,Robbey,ORMP,Health Care,NASDAQ,Oramed Pharmaceuticals Inc.,98910000.0,99965.64,12,Very Large,Small,1
+2117,118,Rice,Bentote,QAT,,NASDAQ,iShares MSCI Qatar Capped ETF,38960000.0,99349.08,12,Very Large,Small,2
+2664,665,Juditha,Bengefield,APEN,Health Care,NASDAQ,"Apollo Endosurgery, Inc.",72330000.0,98709.71,12,Very Large,Small,3
+2958,959,Thomasin,Edmed,PTIE,Health Care,NASDAQ,"Pain Therapeutics, Inc.",27030000.0,98696.95,12,Very Large,Small,4
+2377,378,Chrissy,Daulby,ARTW,Capital Goods,NASDAQ,"Art's-Way Manufacturing Co., Inc.",12260000.0,98615.62,12,Very Large,Small,5
